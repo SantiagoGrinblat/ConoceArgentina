@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Buenos Aires",
+    "info": "Provincia más poblada del país, con extensas llanuras y gran actividad productiva.",
+    "image": "buenosaires",
+    "region": "CENTRO",
+    "icons": ["city", "music", "food"]
+  },
+  {
+    "name": "Catamarca",
+    "info": "Paisajes áridos, montañas y rica herencia cultural del noroeste.",
+    "image": "catamarca",
+    "region": "NOA",
+    "icons": ["mountain", "culture", "sun"]
+  },
+  {
+    "name": "Chaco",
+    "info": "Provincia de clima cálido, naturaleza exuberante y diversidad cultural.",
+    "image": "chaco",
+    "region": "NEA",
+    "icons": ["forest", "sun", "river"]
+  },
+  {
+    "name": "Chubut",
+    "info": "Destino patagónico famoso por ballenas, glaciares y estepa.",
+    "image": "chubut",
+    "region": "PATAGONIA",
+    "icons": ["whale", "cold", "nature"]
+  },
+  {
+    "name": "Córdoba",
+    "info": "Sierras, ríos y una fuerte identidad cultural en el centro del país.",
+    "image": "cordoba",
+    "region": "CENTRO",
+    "icons": ["mountain", "river", "music"]
+  },
+  {
+    "name": "Corrientes",
+    "info": "Hogar de los Esteros del Iberá y tradiciones chamameceras.",
+    "image": "corrientes",
+    "region": "NEA",
+    "icons": ["wetlands", "music", "nature"]
+  },
+  {
+    "name": "Entre Ríos",
+    "info": "Provincia de ríos, termas y paisajes verdes.",
+    "image": "entrerios",
+    "region": "CENTRO",
+    "icons": ["river", "spa", "nature"]
+  },
+  {
+    "name": "Formosa",
+    "info": "Naturaleza subtropical y cultura originaria viva.",
+    "image": "formosa",
+    "region": "NEA",
+    "icons": ["forest", "sun", "culture"]
+  },
+  {
+    "name": "Jujuy",
+    "info": "Colores únicos, cerros y fuerte identidad andina.",
+    "image": "jujuy",
+    "region": "NOA",
+    "icons": ["mountain", "culture", "camera"]
+  },
+  {
+    "name": "La Pampa",
+    "info": "Llanuras extensas y tradición rural.",
+    "image": "pampa",
+    "region": "PAMPEANA",
+    "icons": ["field", "cow", "sun"]
+  },
+  {
+    "name": "La Rioja",
+    "info": "Montañas rojizas y parques naturales impactantes.",
+    "image": "larioja",
+    "region": "NOA",
+    "icons": ["mountain", "sun", "nature"]
+  },
+  {
+    "name": "Mendoza",
+    "info": "Capital internacional del vino y hogar del imponente cerro Aconcagua.",
+    "image": "mendoza",
+    "region": "CUYO",
+    "icons": ["wine", "mountain", "hiking"],
+    "population": "2.01M",
+    "maximunAltitude": "6.961m",
+    "history": "Fundada en 1561 por Pedro del Castillo, Mendoza comenzó como un punto de descanso clave en la ruta comerciala travez de los andes. Su sistema de riego unico, las 'acequias', fue heredado de los pueblos indigenas Huarpes y perfeccionado a lo largo de los siglos.",
+    "relevantData": "La provincia jugo un papel clave crucial en la independencia de America del sur, sirviendo como base del ejecito de los andes del General Jose de San Martin antes de su historico cruce de la cordillera en 1817 para liberar Chile",
+    "geography" : "Situada al pie de la cordillera de los Andes, Mendonza presenta un clima arido contienental. La region es famosa por sus oasis artificiales, creados gracias al deshielo de las montañas que alimentan los rios de Mendonza, Tunuyan, Diamante y Atuel (Estas siendo ciudades importantes dentro de la provincia)",
+    "capital": "Ciudad de Mendonza",
+    "size": "148.827 km2"
+  },
+  {
+    "name": "Misiones",
+    "info": "Selva subtropical y las Cataratas del Iguazú.",
+    "image": "misiones",
+    "region": "NEA",
+    "icons": ["waterfall", "forest", "nature"]
+  },
+  {
+    "name": "Neuquén",
+    "info": "Lagos, montañas y la puerta de entrada a la Patagonia.",
+    "image": "neuquen",
+    "region": "PATAGONIA",
+    "icons": ["lake", "mountain", "snow"]
+  },
+  {
+    "name": "Río Negro",
+    "info": "Desde la cordillera hasta el mar, gran diversidad de paisajes.",
+    "image": "rionegro",
+    "region": "PATAGONIA",
+    "icons": ["mountain", "beach", "nature"]
+  },
+  {
+    "name": "Salta",
+    "info": "Tradiciones, arquitectura colonial y paisajes del norte.",
+    "image": "salta",
+    "region": "NOA",
+    "icons": ["culture", "mountain", "music"]
+  },
+  {
+    "name": "San Juan",
+    "info": "Sol, montañas y producción vitivinícola.",
+    "image": "sanjuan",
+    "region": "CUYO",
+    "icons": ["sun", "mountain", "wine"]
+  },
+  {
+    "name": "San Luis",
+    "info": "Naturaleza serrana y turismo tranquilo.",
+    "image": "sanluis",
+    "region": "CUYO",
+    "icons": ["mountain", "nature", "river"]
+  },
+  {
+    "name": "Santa Cruz",
+    "info": "Glaciares, hielos eternos y paisajes imponentes.",
+    "image": "santacruz",
+    "region": "PATAGONIA",
+    "icons": ["glacier", "cold", "mountain"]
+  },
+  {
+    "name": "Santa Fe",
+    "info": "Importante eje productivo y fluvial del país.",
+    "image": "santafe",
+    "region": "CENTRO",
+    "icons": ["river", "industry", "city"]
+  },
+  {
+    "name": "Santiago del Estero",
+    "info": "La provincia más antigua, rica en folklore y tradiciones.",
+    "image": "santiagodelestero",
+    "region": "NOA",
+    "icons": ["music", "culture", "sun"]
+  },
+  {
+    "name": "Tierra del Fuego",
+    "info": "El fin del mundo, naturaleza extrema y paisajes únicos.",
+    "image": "tierradelfuego",
+    "region": "PATAGONIA",
+    "icons": ["snow", "mountain", "ship"]
+  },
+  {
+    "name": "Tucumán",
+    "info": "Cuna de la independencia argentina y paisajes verdes.",
+    "image": "tucuman",
+    "region": "NOA",
+    "icons": ["history", "nature", "culture"]
+  }
+]

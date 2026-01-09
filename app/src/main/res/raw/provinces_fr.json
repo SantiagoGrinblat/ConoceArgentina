@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Buenos Aires",
+    "info": "La province la plus peuplée du pays, avec de vastes plaines et une forte activité productive.",
+    "image": "buenosaires",
+    "region": "CENTRO",
+    "icons": ["city", "music", "food"]
+  },
+  {
+    "name": "Catamarca",
+    "info": "Paysages arides, montagnes et riche patrimoine culturel du nord-ouest.",
+    "image": "catamarca",
+    "region": "NOA",
+    "icons": ["mountain", "culture", "sun"]
+  },
+  {
+    "name": "Chaco",
+    "info": "Une province au climat chaud, avec une nature luxuriante et une grande diversité culturelle.",
+    "image": "chaco",
+    "region": "NEA",
+    "icons": ["forest", "sun", "river"]
+  },
+  {
+    "name": "Chubut",
+    "info": "Une destination patagonienne célèbre pour ses baleines, ses glaciers et ses paysages de steppe.",
+    "image": "chubut",
+    "region": "PATAGONIA",
+    "icons": ["whale", "cold", "nature"]
+  },
+  {
+    "name": "Córdoba",
+    "info": "Chaînes de montagnes, rivières et forte identité culturelle au centre du pays.",
+    "image": "cordoba",
+    "region": "CENTRO",
+    "icons": ["mountain", "river", "music"]
+  },
+  {
+    "name": "Corrientes",
+    "info": "Terre des zones humides d’Iberá et des traditions du chamamé.",
+    "image": "corrientes",
+    "region": "NEA",
+    "icons": ["wetlands", "music", "nature"]
+  },
+  {
+    "name": "Entre Ríos",
+    "info": "Une province de rivières, de sources thermales et de paysages verdoyants.",
+    "image": "entrerios",
+    "region": "CENTRO",
+    "icons": ["river", "spa", "nature"]
+  },
+  {
+    "name": "Formosa",
+    "info": "Nature subtropicale et culture indigène vibrante.",
+    "image": "formosa",
+    "region": "NEA",
+    "icons": ["forest", "sun", "culture"]
+  },
+  {
+    "name": "Jujuy",
+    "info": "Couleurs uniques, collines et forte identité andine.",
+    "image": "jujuy",
+    "region": "NOA",
+    "icons": ["mountain", "culture", "camera"]
+  },
+  {
+    "name": "La Pampa",
+    "info": "Vastes plaines et traditions rurales.",
+    "image": "pampa",
+    "region": "PAMPEANA",
+    "icons": ["field", "cow", "sun"]
+  },
+  {
+    "name": "La Rioja",
+    "info": "Montagnes rougeâtres et parcs naturels impressionnants.",
+    "image": "larioja",
+    "region": "NOA",
+    "icons": ["mountain", "sun", "nature"]
+  },
+  {
+    "name": "Mendoza",
+    "info": "Capitale internationale du vin et berceau de l’imposante montagne Aconcagua.",
+    "image": "mendoza",
+    "region": "CUYO",
+    "icons": ["wine", "mountain", "hiking"]
+  },
+  {
+    "name": "Misiones",
+    "info": "Forêt subtropicale et chutes d’Iguazú.",
+    "image": "misiones",
+    "region": "NEA",
+    "icons": ["waterfall", "forest", "nature"]
+  },
+  {
+    "name": "Neuquén",
+    "info": "Lacs, montagnes et porte d’entrée de la Patagonie.",
+    "image": "neuquen",
+    "region": "PATAGONIA",
+    "icons": ["lake", "mountain", "snow"]
+  },
+  {
+    "name": "Río Negro",
+    "info": "Des Andes à la mer, une grande diversité de paysages.",
+    "image": "rionegro",
+    "region": "PATAGONIA",
+    "icons": ["mountain", "beach", "nature"]
+  },
+  {
+    "name": "Salta",
+    "info": "Traditions, architecture coloniale et paysages du nord.",
+    "image": "salta",
+    "region": "NOA",
+    "icons": ["culture", "mountain", "music"]
+  },
+  {
+    "name": "San Juan",
+    "info": "Soleil, montagnes et production viticole.",
+    "image": "sanjuan",
+    "region": "CUYO",
+    "icons": ["sun", "mountain", "wine"]
+  },
+  {
+    "name": "San Luis",
+    "info": "Nature montagneuse et tourisme paisible.",
+    "image": "sanluis",
+    "region": "CUYO",
+    "icons": ["mountain", "nature", "river"]
+  },
+  {
+    "name": "Santa Cruz",
+    "info": "Glaciers, glace éternelle et paysages à couper le souffle.",
+    "image": "santacruz",
+    "region": "PATAGONIA",
+    "icons": ["glacier", "cold", "mountain"]
+  },
+  {
+    "name": "Santa Fe",
+    "info": "Un important pôle productif et fluvial du pays.",
+    "image": "santafe",
+    "region": "CENTRO",
+    "icons": ["river", "industry", "city"]
+  },
+  {
+    "name": "Santiago del Estero",
+    "info": "La province la plus ancienne, riche en folklore et traditions.",
+    "image": "santiagodelestero",
+    "region": "NOA",
+    "icons": ["music", "culture", "sun"]
+  },
+  {
+    "name": "Tierra del Fuego",
+    "info": "Le bout du monde, une nature extrême et des paysages uniques.",
+    "image": "tierradelfuego",
+    "region": "PATAGONIA",
+    "icons": ["snow", "mountain", "ship"]
+  },
+  {
+    "name": "Tucumán",
+    "info": "Berceau de l’indépendance argentine et paysages verdoyants.",
+    "image": "tucuman",
+    "region": "NOA",
+    "icons": ["history", "nature", "culture"]
+  }
+]
