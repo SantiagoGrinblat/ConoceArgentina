@@ -12,13 +12,12 @@ class ProvinceRepository(private val context: Context) {
   private val database = AppDataBase.getDatabase(context)
   private val provinceDao = database.provinceDao()
   
-  // Inicializar base de datos desde JSON
   suspend fun initializeDatabase(language: String) {
     try {
       Log.d("ProvinceRepository", "=== INICIO initializeDatabase ===")
       Log.d("ProvinceRepository", "Idioma solicitado: $language")
       
-      // Verificar si ya hay datos
+      // para verificar si ya hay datos
       val existing = provinceDao.getAllProvinces(language)
       Log.d("ProvinceRepository", "Provincias existentes en DB: ${existing.size}")
       
@@ -29,7 +28,7 @@ class ProvinceRepository(private val context: Context) {
       
       Log.d("ProvinceRepository", "Inicializando DB para idioma: $language")
       
-      // Verificar qué archivo JSON se va a cargar
+      // para verificar que archivo JSON se va a cargar
       val resourceId = when (language) {
         "EN" -> R.raw.provinces_en
         "ES" -> R.raw.provinces_es
@@ -40,7 +39,7 @@ class ProvinceRepository(private val context: Context) {
       
       Log.d("ProvinceRepository", "Resource ID: $resourceId")
       
-      // Leer JSON
+      // como se lee el JSON
       val jsonString = context.resources
         .openRawResource(resourceId)
         .bufferedReader()
@@ -49,11 +48,11 @@ class ProvinceRepository(private val context: Context) {
       Log.d("ProvinceRepository", "JSON leído, longitud: ${jsonString.length}")
       Log.d("ProvinceRepository", "Primeros 200 caracteres: ${jsonString.take(200)}")
       
-      // Parsear
+      // Parsea
       val entities = parseJsonToEntities(jsonString, language)
       Log.d("ProvinceRepository", "Entities parseadas: ${entities.size}")
       
-      // Insertar
+      // Inserta
       provinceDao.insertAll(entities)
       Log.d("ProvinceRepository", "✅ Insertadas ${entities.size} provincias")
       
@@ -84,7 +83,7 @@ class ProvinceRepository(private val context: Context) {
             region = item.getString("region"),
             language = language,
             population = item.optString("population"),
-            maximumAltitude = item.optString("maximunAltitude"), // Nota el typo en tu JSON
+            maximumAltitude = item.optString("maximumAltitude"),
             history = item.optString("history"),
             relevantData = item.optString("relevantData"),
             geography = item.optString("geography"),
@@ -107,7 +106,7 @@ class ProvinceRepository(private val context: Context) {
     return provinceDao.getAllProvinces(language).map { it.toCardItem() }
   }
   
-  // Filtrar por región
+  // Filtrar segun la region
   suspend fun getProvincesByRegion(language: String, region: String): List<CardItem> {
     initializeDatabase(language)
     return if (region == "all") {
@@ -117,7 +116,7 @@ class ProvinceRepository(private val context: Context) {
     }
   }
   
-  // Buscar provincias
+  //TODO: Buscar provincias a futuro (quizas)
   suspend fun searchProvinces(language: String, query: String): List<CardItem> {
     initializeDatabase(language)
     return provinceDao.searchProvinces(language, query).map { it.toCardItem() }

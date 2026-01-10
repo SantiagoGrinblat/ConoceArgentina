@@ -1,80 +1,157 @@
 [
   {
     "name": "Buenos Aires",
-    "info": "Provincia más poblada del país, con extensas llanuras y gran actividad productiva.",
+    "info": "Provincia más poblada de Argentina, motor económico del país y eje central de la producción agroindustrial.",
     "image": "buenosaires",
     "region": "CENTRO",
-    "icons": ["city", "music", "food"]
+    "icons": ["city", "industry", "agriculture"],
+    "population": "17.5M",
+    "maximumAltitude": "1.239m",
+    "history": "El territorio bonaerense estuvo habitado por pueblos originarios como los querandíes. Tras la fundación de Buenos Aires en 1580, la región se consolidó como núcleo político y económico del país.",
+    "relevantData": "El puerto de Buenos Aires fue clave para el comercio exterior argentino durante los siglos XIX y XX.",
+    "geography": "Predominan las llanuras pampeanas, con costas sobre el Mar Argentino y sistemas serranos como Tandilia y Ventania.",
+    "capital": "La Plata",
+    "size": "307.571 km2"
   },
   {
     "name": "Catamarca",
-    "info": "Paisajes áridos, montañas y rica herencia cultural del noroeste.",
+    "info": "Provincia de paisajes áridos y montañosos, con fuerte identidad cultural y minera.",
     "image": "catamarca",
     "region": "NOA",
-    "icons": ["mountain", "culture", "sun"]
+    "icons": ["mountain", "mining", "nature"],
+    "population": "430K",
+    "maximumAltitude": "6.893m",
+    "history": "Fundada en 1683, Catamarca conservó una fuerte tradición indígena y colonial. Históricamente estuvo vinculada a la minería y al comercio regional.",
+    "relevantData": "Es una de las principales productoras de litio y minerales del país.",
+    "geography": "Predominan sierras, valles y regiones desérticas, con escasa población concentrada en oasis.",
+    "capital": "San Fernando del Valle de Catamarca",
+    "size": "102.602 km2"
   },
   {
     "name": "Chaco",
-    "info": "Provincia de clima cálido, naturaleza exuberante y diversidad cultural.",
+    "info": "Provincia de clima cálido y gran desarrollo agroindustrial.",
     "image": "chaco",
     "region": "NEA",
-    "icons": ["forest", "sun", "river"]
+    "icons": ["agriculture", "heat", "industry"],
+    "population": "1.2M",
+    "maximumAltitude": "300m",
+    "history": "Incorporado tardíamente al Estado argentino, Chaco se desarrolló con la expansión agrícola y forestal a fines del siglo XIX y comienzos del XX.",
+    "relevantData": "Es uno de los principales productores de algodón del país.",
+    "geography": "Predomina un relieve llano con bosques chaqueños y clima subtropical.",
+    "capital": "Resistencia",
+    "size": "99.633 km2"
   },
   {
     "name": "Chubut",
-    "info": "Destino patagónico famoso por ballenas, glaciares y estepa.",
+    "info": "Provincia patagónica reconocida por su fauna marina y herencia galesa.",
     "image": "chubut",
     "region": "PATAGONIA",
-    "icons": ["whale", "cold", "nature"]
+    "icons": ["whale", "coast", "culture"],
+    "population": "600K",
+    "maximumAltitude": "2.961m",
+    "history": "Chubut recibió una importante inmigración galesa a partir de 1865, dejando un legado cultural distintivo en la región.",
+    "relevantData": "La Península Valdés es Patrimonio Natural de la Humanidad por la UNESCO.",
+    "geography": "Predomina la meseta patagónica, con costas sobre el Atlántico y áreas cordilleranas al oeste.",
+    "capital": "Rawson",
+    "size": "224.686 km2"
   },
   {
     "name": "Córdoba",
-    "info": "Sierras, ríos y una fuerte identidad cultural en el centro del país.",
+    "info": "Provincia ubicada en el centro del país, reconocida por su importancia histórica, educativa e industrial.",
     "image": "cordoba",
     "region": "CENTRO",
-    "icons": ["mountain", "river", "music"]
+    "icons": ["mountain", "education", "industry"],
+    "population": "3.9M",
+    "maximumAltitude": "2.790m",
+    "history": "Fundada en 1573 por Jerónimo Luis de Cabrera, Córdoba fue un punto estratégico en el Virreinato del Río de la Plata. Alberga la Universidad Nacional de Córdoba, fundada en 1613, una de las más antiguas de América.",
+    "relevantData": "Córdoba fue escenario clave de movimientos políticos y sociales, como la Reforma Universitaria de 1918, que influyó en toda América Latina.",
+    "geography": "Combina llanuras fértiles con las Sierras de Córdoba, que atraviesan la provincia de norte a sur, generando valles turísticos y microclimas.",
+    "capital": "Córdoba",
+    "size": "165.321 km2"
   },
   {
     "name": "Corrientes",
-    "info": "Hogar de los Esteros del Iberá y tradiciones chamameceras.",
+    "info": "Provincia de fuerte identidad cultural, chamamé y vastos humedales.",
     "image": "corrientes",
     "region": "NEA",
-    "icons": ["wetlands", "music", "nature"]
+    "icons": ["river", "culture", "wetlands"],
+    "population": "1.1M",
+    "maximumAltitude": "150m",
+    "history": "Fundada en 1588, Corrientes mantuvo una marcada identidad federal y tuvo un rol activo en la historia política del país.",
+    "relevantData": "Los Esteros del Iberá conforman uno de los humedales más importantes de América del Sur.",
+    "geography": "Predominan planicies, esteros y la influencia de los ríos Paraná y Uruguay.",
+    "capital": "Corrientes",
+    "size": "88.199 km2"
   },
   {
     "name": "Entre Ríos",
-    "info": "Provincia de ríos, termas y paisajes verdes.",
+    "info": "Provincia mesopotámica caracterizada por sus ríos, termas y una fuerte identidad federal.",
     "image": "entrerios",
     "region": "CENTRO",
-    "icons": ["river", "spa", "nature"]
+    "icons": ["river", "nature", "hot_spring"],
+    "population": "1.4M",
+    "maximumAltitude": "127m",
+    "history": "Entre Ríos fue un bastión del federalismo argentino y cuna de líderes como Justo José de Urquiza. La provincia tuvo un rol decisivo en la organización nacional durante el siglo XIX.",
+    "relevantData": "Aquí se desarrolló la Confederación Argentina, con capital en Paraná entre 1854 y 1861.",
+    "geography": "Se encuentra delimitada por los ríos Paraná y Uruguay, con un relieve predominantemente llano y numerosas áreas de humedales.",
+    "capital": "Paraná",
+    "size": "78.781 km2"
   },
   {
     "name": "Formosa",
-    "info": "Naturaleza subtropical y cultura originaria viva.",
+    "info": "Provincia fronteriza con fuerte presencia de ríos y diversidad cultural.",
     "image": "formosa",
     "region": "NEA",
-    "icons": ["forest", "sun", "culture"]
+    "icons": ["river", "culture", "nature"],
+    "population": "610K",
+    "maximumAltitude": "200m",
+    "history": "Fundada en 1879, Formosa se consolidó como provincia a mediados del siglo XX, con una identidad marcada por la convivencia de pueblos originarios.",
+    "relevantData": "Posee una importante diversidad étnica y cultural, con comunidades indígenas como los wichí, qom y pilagá.",
+    "geography": "Territorio mayormente llano, atravesado por ríos como el Pilcomayo y el Paraguay, con clima cálido.",
+    "capital": "Formosa",
+    "size": "72.066 km2"
   },
   {
     "name": "Jujuy",
-    "info": "Colores únicos, cerros y fuerte identidad andina.",
+    "info": "Provincia andina conocida por su diversidad cultural, paisajes de altura y fuerte herencia indígena.",
     "image": "jujuy",
     "region": "NOA",
-    "icons": ["mountain", "culture", "camera"]
+    "icons": ["mountain", "culture", "heritage"],
+    "population": "810K",
+    "maximumAltitude": "5.896m",
+    "history": "Jujuy fue habitada por pueblos originarios como los omaguacas y atacamas. Durante la independencia tuvo un rol clave con el Éxodo Jujeño de 1812, una estrategia decisiva liderada por Manuel Belgrano.",
+    "relevantData": "La Quebrada de Humahuaca es Patrimonio de la Humanidad por la UNESCO.",
+    "geography": "Presenta una gran variedad de paisajes que incluyen la Puna, la Quebrada de Humahuaca y las Yungas.",
+    "capital": "San Salvador de Jujuy",
+    "size": "53.219 km2"
   },
   {
     "name": "La Pampa",
-    "info": "Llanuras extensas y tradición rural.",
+    "info": "Provincia de extensas llanuras y fuerte tradición rural, ubicada en el centro-sur del país.",
     "image": "pampa",
-    "region": "PAMPEANA",
-    "icons": ["field", "cow", "sun"]
+    "region": "CENTRO",
+    "icons": ["plains", "agriculture", "rural"],
+    "population": "360K",
+    "maximumAltitude": "1.191m",
+    "history": "Originalmente habitada por pueblos originarios como los ranqueles, La Pampa fue incorporada al Estado argentino a fines del siglo XIX tras la Conquista del Desierto. Se convirtió en provincia en 1951.",
+    "relevantData": "La actividad agropecuaria es el principal motor económico, destacándose la ganadería bovina.",
+    "geography": "Predominan las llanuras semiáridas, con sierras bajas al oeste y una transición hacia la región patagónica.",
+    "capital": "Santa Rosa",
+    "size": "143.440 km2"
   },
   {
     "name": "La Rioja",
-    "info": "Montañas rojizas y parques naturales impactantes.",
+    "info": "Provincia de gran tradición federal y paisajes serranos.",
     "image": "larioja",
     "region": "NOA",
-    "icons": ["mountain", "sun", "nature"]
+    "icons": ["mountain", "history", "wine"],
+    "population": "390K",
+    "maximumAltitude": "6.795m",
+    "history": "La Rioja fue un bastión del federalismo argentino, ligada a la figura de Facundo Quiroga durante las guerras civiles del siglo XIX.",
+    "relevantData": "La provincia posee una importante producción vitivinícola y olivícola.",
+    "geography": "Predominan sierras, valles y climas áridos con marcadas amplitudes térmicas.",
+    "capital": "La Rioja",
+    "size": "89.680 km2"
   },
   {
     "name": "Mendoza",
@@ -83,7 +160,7 @@
     "region": "CUYO",
     "icons": ["wine", "mountain", "hiking"],
     "population": "2.01M",
-    "maximunAltitude": "6.961m",
+    "maximumAltitude": "6.961m",
     "history": "Fundada en 1561 por Pedro del Castillo, Mendoza comenzó como un punto de descanso clave en la ruta comerciala travez de los andes. Su sistema de riego unico, las 'acequias', fue heredado de los pueblos indigenas Huarpes y perfeccionado a lo largo de los siglos.",
     "relevantData": "La provincia jugo un papel clave crucial en la independencia de America del sur, sirviendo como base del ejecito de los andes del General Jose de San Martin antes de su historico cruce de la cordillera en 1817 para liberar Chile",
     "geography" : "Situada al pie de la cordillera de los Andes, Mendonza presenta un clima arido contienental. La region es famosa por sus oasis artificiales, creados gracias al deshielo de las montañas que alimentan los rios de Mendonza, Tunuyan, Diamante y Atuel (Estas siendo ciudades importantes dentro de la provincia)",
@@ -92,79 +169,156 @@
   },
   {
     "name": "Misiones",
-    "info": "Selva subtropical y las Cataratas del Iguazú.",
+    "info": "Provincia de selva subtropical, famosa por las Cataratas del Iguazú y su biodiversidad única.",
     "image": "misiones",
     "region": "NEA",
-    "icons": ["waterfall", "forest", "nature"]
+    "icons": ["waterfall", "jungle", "nature"],
+    "population": "1.3M",
+    "maximumAltitude": "843m",
+    "history": "Misiones estuvo fuertemente influenciada por las misiones jesuíticas guaraníes durante los siglos XVII y XVIII, un legado cultural y arquitectónico único en la región.",
+    "relevantData": "Las Cataratas del Iguazú son una de las Siete Maravillas Naturales del Mundo.",
+    "geography": "Presenta un relieve ondulado con selva densa, suelos rojos y un clima subtropical húmedo.",
+    "capital": "Posadas",
+    "size": "29.801 km2"
   },
   {
     "name": "Neuquén",
-    "info": "Lagos, montañas y la puerta de entrada a la Patagonia.",
+    "info": "Provincia patagónica clave para la producción energética del país.",
     "image": "neuquen",
     "region": "PATAGONIA",
-    "icons": ["lake", "mountain", "snow"]
+    "icons": ["energy", "mountain", "lake"],
+    "population": "730K",
+    "maximumAltitude": "4.709m",
+    "history": "Neuquén se desarrolló fuertemente a partir del siglo XX con la explotación hidrocarburífera. La provincia adquirió gran relevancia estratégica por los recursos de Vaca Muerta.",
+    "relevantData": "Vaca Muerta es una de las mayores formaciones de hidrocarburos no convencionales del mundo.",
+    "geography": "Presenta paisajes de cordillera, lagos y estepas, con importantes ríos como el Limay y el Neuquén.",
+    "capital": "Neuquén",
+    "size": "94.078 km2"
   },
   {
     "name": "Río Negro",
-    "info": "Desde la cordillera hasta el mar, gran diversidad de paisajes.",
+    "info": "Provincia diversa que combina cordillera, valles productivos y costa atlántica.",
     "image": "rionegro",
     "region": "PATAGONIA",
-    "icons": ["mountain", "beach", "nature"]
+    "icons": ["mountain", "fruit", "coast"],
+    "population": "750K",
+    "maximumAltitude": "3.470m",
+    "history": "Río Negro fue parte del Territorio Nacional de la Patagonia hasta su provincialización en 1955. Su desarrollo estuvo ligado a la fruticultura del Alto Valle.",
+    "relevantData": "Es uno de los principales productores de manzanas y peras del país.",
+    "geography": "Combina la cordillera andina, los valles irrigados y extensas zonas de meseta y costa atlántica.",
+    "capital": "Viedma",
+    "size": "203.013 km2"
   },
   {
     "name": "Salta",
-    "info": "Tradiciones, arquitectura colonial y paisajes del norte.",
+    "info": "Provincia de gran riqueza histórica y cultural, conocida como 'Salta la Linda'.",
     "image": "salta",
     "region": "NOA",
-    "icons": ["culture", "mountain", "music"]
+    "icons": ["colonial", "mountain", "culture"],
+    "population": "1.4M",
+    "maximumAltitude": "6.739m",
+    "history": "Fundada en 1582, Salta fue un bastión estratégico durante las guerras de independencia bajo el liderazgo de Martín Miguel de Güemes.",
+    "relevantData": "El general Güemes organizó la guerra gaucha, clave para frenar los avances realistas desde el Alto Perú.",
+    "geography": "Combina valles fértiles, selvas de Yungas y regiones de alta montaña.",
+    "capital": "Salta",
+    "size": "155.488 km2"
   },
   {
     "name": "San Juan",
-    "info": "Sol, montañas y producción vitivinícola.",
+    "info": "Provincia andina destacada por su producción minera, vitivinícola y su elevado potencial solar.",
     "image": "sanjuan",
     "region": "CUYO",
-    "icons": ["sun", "mountain", "wine"]
+    "icons": ["sun", "mountain", "mining"],
+    "population": "820K",
+    "maximumAltitude": "6.960m",
+    "history": "Fundada en 1562 por Juan Jufré, San Juan fue cuna de Domingo Faustino Sarmiento, una de las figuras más influyentes de la historia argentina. La provincia ha sido marcada por importantes terremotos que definieron su arquitectura moderna.",
+    "relevantData": "Es una de las principales provincias mineras del país y líder en el desarrollo de energías renovables, especialmente energía solar.",
+    "geography": "Predomina un paisaje montañoso y árido, con valles irrigados donde se concentra la actividad agrícola. Forma parte de la cordillera Frontal y la cordillera Principal.",
+    "capital": "San Juan",
+    "size": "89.651 km2"
   },
   {
     "name": "San Luis",
-    "info": "Naturaleza serrana y turismo tranquilo.",
+    "info": "Provincia de transición entre la región pampeana y Cuyo, reconocida por su estabilidad institucional y desarrollo tecnológico.",
     "image": "sanluis",
     "region": "CUYO",
-    "icons": ["mountain", "nature", "river"]
+    "icons": ["technology", "mountain", "nature"],
+    "population": "540K",
+    "maximumAltitude": "2.160m",
+    "history": "Fundada en 1594 por Luis Jufré de Loaysa y Meneses, San Luis tuvo un papel relevante como punto de conexión entre el litoral y la región andina durante la colonia.",
+    "relevantData": "La provincia se destacó en las últimas décadas por políticas de innovación, conectividad digital y planificación urbana.",
+    "geography": "Presenta sierras, llanuras y valles. Las Sierras de San Luis y Comechingones generan paisajes variados y microclimas.",
+    "capital": "San Luis",
+    "size": "76.748 km2"
   },
   {
     "name": "Santa Cruz",
-    "info": "Glaciares, hielos eternos y paisajes imponentes.",
+    "info": "Provincia austral caracterizada por sus glaciares y vastos paisajes naturales.",
     "image": "santacruz",
     "region": "PATAGONIA",
-    "icons": ["glacier", "cold", "mountain"]
+    "icons": ["glacier", "mountain", "wind"],
+    "population": "370K",
+    "maximumAltitude": "3.405m",
+    "history": "Santa Cruz fue territorio nacional hasta 1957. Su desarrollo estuvo ligado a la ganadería ovina y la explotación petrolera.",
+    "relevantData": "El Parque Nacional Los Glaciares alberga el famoso glaciar Perito Moreno.",
+    "geography": "Presenta estepas, mesetas, cordillera andina austral y fuertes vientos predominantes.",
+    "capital": "Río Gallegos",
+    "size": "243.943 km2"
   },
   {
     "name": "Santa Fe",
-    "info": "Importante eje productivo y fluvial del país.",
+    "info": "Provincia clave para la economía nacional gracias a su producción agroindustrial y su acceso al río Paraná.",
     "image": "santafe",
     "region": "CENTRO",
-    "icons": ["river", "industry", "city"]
+    "icons": ["river", "agriculture", "port"],
+    "population": "3.6M",
+    "maximumAltitude": "125m",
+    "history": "Fundada en 1573, Santa Fe fue sede de la Convención Constituyente de 1853, donde se sancionó la Constitución Nacional Argentina.",
+    "relevantData": "La provincia alberga uno de los complejos portuarios más importantes del país, esencial para la exportación de granos y derivados.",
+    "geography": "Predominan las llanuras pampeanas y la influencia del río Paraná, con extensas zonas de humedales y actividad fluvial.",
+    "capital": "Santa Fe",
+    "size": "133.007 km2"
   },
   {
     "name": "Santiago del Estero",
-    "info": "La provincia más antigua, rica en folklore y tradiciones.",
+    "info": "Provincia más antigua del país, considerada la 'Madre de Ciudades'.",
     "image": "santiagodelestero",
     "region": "NOA",
-    "icons": ["music", "culture", "sun"]
+    "icons": ["history", "folklore", "heat"],
+    "population": "1.0M",
+    "maximumAltitude": "300m",
+    "history": "Fundada en 1553, fue la primera ciudad española establecida en territorio argentino y punto de partida para otras fundaciones coloniales.",
+    "relevantData": "Es cuna del folclore argentino y conserva tradiciones culturales muy arraigadas.",
+    "geography": "Predomina un relieve llano con clima cálido y seco, atravesado por los ríos Dulce y Salado.",
+    "capital": "Santiago del Estero",
+    "size": "136.351 km2"
   },
   {
     "name": "Tierra del Fuego",
-    "info": "El fin del mundo, naturaleza extrema y paisajes únicos.",
+    "info": "Provincia más austral del país, conocida como el Fin del Mundo.",
     "image": "tierradelfuego",
     "region": "PATAGONIA",
-    "icons": ["snow", "mountain", "ship"]
+    "icons": ["snow", "mountain", "antarctica"],
+    "population": "190K",
+    "maximumAltitude": "2.469m",
+    "history": "Provincializada en 1990, Tierra del Fuego tuvo un desarrollo tardío marcado por la navegación, la industria electrónica y la presencia antártica.",
+    "relevantData": "La provincia ejerce soberanía sobre el sector antártico argentino.",
+    "geography": "Combina montañas, bosques subantárticos y costas, con clima frío y ventoso.",
+    "capital": "Ushuaia",
+    "size": "21.571 km2"
   },
   {
     "name": "Tucumán",
-    "info": "Cuna de la independencia argentina y paisajes verdes.",
+    "info": "Provincia más pequeña del país y cuna de la independencia argentina.",
     "image": "tucuman",
     "region": "NOA",
-    "icons": ["history", "nature", "culture"]
+    "icons": ["history", "sugar", "culture"],
+    "population": "1.7M",
+    "maximumAltitude": "5.550m",
+    "history": "En Tucumán se declaró la independencia argentina el 9 de julio de 1816. Desde la colonia, la provincia fue un importante centro agrícola y azucarero.",
+    "relevantData": "La Casa Histórica de la Independencia es uno de los monumentos más importantes del país.",
+    "geography": "Posee un relieve variado con llanuras, sierras y selvas de Yungas, lo que genera un clima más húmedo que el resto del NOA.",
+    "capital": "San Miguel de Tucumán",
+    "size": "22.524 km2"
   }
 ]
