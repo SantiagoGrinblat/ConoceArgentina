@@ -35,13 +35,12 @@ import com.santidev.conoceargentina.ui.composables.provinces.composables.StatCar
 import com.santidev.conoceargentina.ui.utils.LocalListStrings
 import com.santidev.conoceargentina.ui.utils.LocalStrings
 
-// composables/detail/KeyDataSection.kt
 @Composable
 fun KeyDataSection(province: CardItem) {
   
   val strings = LocalListStrings.current
   
-  // Stats (Población y Altitud)
+  // Stats poblacion y altitud, capital y tamaño
   if (province.capital != null || province.population != null ||
     province.maximumAltitude != null || province.size != null) {
     

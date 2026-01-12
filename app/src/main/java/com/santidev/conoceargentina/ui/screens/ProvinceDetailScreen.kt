@@ -52,13 +52,14 @@ import com.santidev.conoceargentina.ui.composables.list.ProvinceRepository
 import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.GeographySection
 import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.KeyDataSection
 import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.SectionHistory
+import com.santidev.conoceargentina.ui.utils.LocalLanguage
 import com.santidev.conoceargentina.ui.utils.LocalStrings
 
 @Composable
 fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
   
   val context = LocalContext.current
-  val currentLanguage = LocalContext.current
+  val currentLanguage = LocalLanguage.current
   val repository = remember { ProvinceRepository(context) }
   
   var province by remember { mutableStateOf<CardItem?>(null) }
@@ -67,7 +68,7 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
   // Cargar datos de la provincia especifica segun el nombre sin importar el lenguaje
   LaunchedEffect(provinceName, currentLanguage) {
     isLoading = true
-    val allProvinces = repository.getAllProvinces(currentLanguage.toString())
+    val allProvinces = repository.getAllProvinces(currentLanguage)
     province = allProvinces.find { it.name == provinceName }
     isLoading = false
   }
@@ -120,14 +121,14 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
           onClick = onBack,
           modifier = Modifier
             .background(
-              color = Color.Black.copy(alpha = 0.5f),
+              color = Color.White.copy(alpha = 0.5f),
               shape = CircleShape
             )
         ) {
           Icon(
             imageVector = Icons.AutoMirrored.Filled.ArrowBack,
             contentDescription = "Volver",
-            tint = Color.White
+            tint = Color(0xFF127FEC)
           )
         }
         
@@ -137,14 +138,14 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
             onClick = { /* TODO */ },
             modifier = Modifier
               .background(
-                color = Color.Black.copy(alpha = 0.5f),
+                color = Color.White.copy(alpha = 0.5f),
                 shape = CircleShape
               )
           ) {
             Icon(
               imageVector = Icons.Default.Share,
               contentDescription = "Compartir",
-              tint = Color.White
+              tint = Color(0xFF127FEC),
             )
           }
           
@@ -154,14 +155,14 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
             onClick = { /* TODO */ },
             modifier = Modifier
               .background(
-                color = Color.Black.copy(alpha = 0.5f),
+                color = Color.White.copy(alpha = 0.5f),
                 shape = CircleShape
               )
           ) {
             Icon(
               imageVector = Icons.Default.FavoriteBorder,
               contentDescription = "Favorito",
-              tint = Color.White
+              tint = Color(0xFF127FEC)
             )
           }
         }

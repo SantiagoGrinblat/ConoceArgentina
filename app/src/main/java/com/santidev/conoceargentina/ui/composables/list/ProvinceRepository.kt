@@ -95,7 +95,7 @@ class ProvinceRepository(private val context: Context) {
       } catch (e: Exception) {
         Log.e("ProvinceRepository", "Error parseando item $i", e)
       }
-    }
+    }//verifica si se tomo correctamente O no los nombres de los json
     Log.d("ProvinceRepository", "Total entities creadas: ${entities.size}")
     return entities
   }

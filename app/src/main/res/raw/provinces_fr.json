@@ -129,7 +129,7 @@
     "name": "La Pampa",
     "info": "Province de vastes plaines et de forte tradition rurale.",
     "image": "pampa",
-    "region": "CENTRO",
+    "region": "PAMPEANA",
     "icons": ["plains", "agriculture", "rural"],
     "population": "360K",
     "maximumAltitude": "1.191m",

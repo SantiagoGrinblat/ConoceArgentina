@@ -58,9 +58,9 @@ object ListStrings {
     nea = "NEA",
     patagonia = "PATAGONIA",
     
-    keyDataSection = "Datos Clave",
-    geographySection = "Geografía",
-    historySection = "Historia",
+    keyDataSection = "Key Data",
+    geographySection = "Geography",
+    historySection = "History",
     
     list = "List",
     map = "Map",
@@ -79,9 +79,9 @@ object ListStrings {
     nea = "NEA",
     patagonia = "PATAGÔNIA",
     
-    keyDataSection = "Datos Clave",
+    keyDataSection = "Dados-chave",
     geographySection = "Geografía",
-    historySection = "Historia",
+    historySection = "História",
     
     list = "Lista",
     map = "Mapa",
@@ -100,9 +100,9 @@ object ListStrings {
     nea = "NEA",
     patagonia = "PATAGONIE",
     
-    keyDataSection = "Datos Clave",
-    geographySection = "Geografía",
-    historySection = "Historia",
+    keyDataSection = "Données clés",
+    geographySection = "Géographié",
+    historySection = "Historie",
     
     list = "Liste",
     map = "Carte",

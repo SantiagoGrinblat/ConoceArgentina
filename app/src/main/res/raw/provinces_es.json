@@ -129,7 +129,7 @@
     "name": "La Pampa",
     "info": "Provincia de extensas llanuras y fuerte tradición rural, ubicada en el centro-sur del país.",
     "image": "pampa",
-    "region": "CENTRO",
+    "region": "PAMPEANA",
     "icons": ["plains", "agriculture", "rural"],
     "population": "360K",
     "maximumAltitude": "1.191m",
