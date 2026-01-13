@@ -4,11 +4,14 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
+import com.santidev.conoceargentina.ui.composables.favorites.data.FavoriteDao
+import com.santidev.conoceargentina.ui.composables.favorites.data.FavoriteEntity
 
-@Database(entities = [ProvincesEntity::class], version = 7, exportSchema = false)
+@Database(entities = [ProvincesEntity::class, FavoriteEntity::class], version = 8, exportSchema = false)
 abstract class AppDataBase: RoomDatabase() {
   
   abstract fun provinceDao(): ProvinceDao
+  abstract fun favoriteDao(): FavoriteDao
   
   companion object {
     @Volatile

@@ -22,6 +22,7 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.CalendarToday
+import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.FavoriteBorder
 import androidx.compose.material.icons.filled.LocationOn
 import androidx.compose.material.icons.filled.Share
@@ -34,9 +35,11 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -47,6 +50,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.santidev.conoceargentina.ui.composables.favorites.data.FavoriteRepository
 import com.santidev.conoceargentina.ui.composables.list.CardItem
 import com.santidev.conoceargentina.ui.composables.list.ProvinceRepository
 import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.GeographySection
@@ -54,6 +58,7 @@ import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.KeyData
 import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.SectionHistory
 import com.santidev.conoceargentina.ui.utils.LocalLanguage
 import com.santidev.conoceargentina.ui.utils.LocalStrings
+import kotlinx.coroutines.launch
 
 @Composable
 fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
@@ -61,9 +66,15 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
   val context = LocalContext.current
   val currentLanguage = LocalLanguage.current
   val repository = remember { ProvinceRepository(context) }
+  val favoriteRepository = remember { FavoriteRepository(context) }
+  val scope = rememberCoroutineScope()
   
   var province by remember { mutableStateOf<CardItem?>(null) }
   var isLoading by remember { mutableStateOf(true) }
+  
+  // Observar si es favorito (Flow automático)
+  val isFavorite by favoriteRepository.isFavorite(provinceName)
+    .collectAsState(initial = false)
   
   // Cargar datos de la provincia especifica segun el nombre sin importar el lenguaje
   LaunchedEffect(provinceName, currentLanguage) {
@@ -100,7 +111,7 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
     Box(
       modifier = Modifier
         .fillMaxWidth()
-        .height(400.dp)
+        .height(350.dp)
     ) {
       Image(
         painter = painterResource(province!!.image),
@@ -152,7 +163,9 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
           Spacer(modifier = Modifier.width(8.dp))
           
           IconButton(
-            onClick = { /* TODO */ },
+            onClick = { scope.launch {
+              favoriteRepository.toggleFavorite(provinceName, isFavorite)
+            } },
             modifier = Modifier
               .background(
                 color = Color.White.copy(alpha = 0.5f),
@@ -160,9 +173,13 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
               )
           ) {
             Icon(
-              imageVector = Icons.Default.FavoriteBorder,
-              contentDescription = "Favorito",
-              tint = Color(0xFF127FEC)
+              imageVector = if (isFavorite) {
+                Icons.Default.Favorite
+              } else {
+                Icons.Default.FavoriteBorder
+              },
+              contentDescription = if (isFavorite) "Quitar de favoritos" else "Agregar a favoritos",
+              tint = if (isFavorite) Color(0xFF127FEC) else Color.Red
             )
           }
         }

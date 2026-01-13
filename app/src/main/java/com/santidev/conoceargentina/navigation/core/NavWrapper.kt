@@ -104,7 +104,9 @@ fun NavWrapper() {
               Box(modifier = Modifier
                 .fillMaxSize()
                 .padding(paddingValues)) {
-                FavoriteScreen()
+                FavoriteScreen(
+                  onNavigate = { route -> backStack.add(route) }
+                )
               }
             }
             
