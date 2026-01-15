@@ -46,7 +46,6 @@ Esta aplicación móvil está diseñada para ayudar a viajeros y turistas a desc
 - 🗃️ Room Database (persistencia de datos y favoritos)
 - 🌐 Sistema de localización con múltiples idiomas
 - 🎨 Material 3 Design
-- 🗺️ Google Maps Integration (intents para ubicaciones)
 - 📦 Navegation 3 (navegación entre pantallas)
 - 🖼️ Coil (carga de imágenes)
 - 💾 Coroutines (operaciones asíncronas)
