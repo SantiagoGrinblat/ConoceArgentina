@@ -50,18 +50,19 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.santidev.conoceargentina.navigation.Routes
 import com.santidev.conoceargentina.ui.composables.favorites.data.FavoriteRepository
 import com.santidev.conoceargentina.ui.composables.list.CardItem
 import com.santidev.conoceargentina.ui.composables.list.ProvinceRepository
 import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.GeographySection
 import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.KeyDataSection
 import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.SectionHistory
+import com.santidev.conoceargentina.ui.composables.provinces.generalInfo.TouristSitesSection
 import com.santidev.conoceargentina.ui.utils.LocalLanguage
-import com.santidev.conoceargentina.ui.utils.LocalStrings
 import kotlinx.coroutines.launch
 
 @Composable
-fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
+fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit, onNavigate: (Routes) -> Unit) {
   
   val context = LocalContext.current
   val currentLanguage = LocalLanguage.current
@@ -104,9 +105,9 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
     return
   }
   
-  Box(modifier = Modifier
-    .fillMaxSize()
-    .background(Color.White)
+  Box(
+    modifier = Modifier
+      .fillMaxSize()
   ) {
     Box(
       modifier = Modifier
@@ -127,7 +128,7 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
           .statusBarsPadding(),
         horizontalArrangement = Arrangement.SpaceBetween
       ) {
-
+        
         IconButton(
           onClick = onBack,
           modifier = Modifier
@@ -144,7 +145,7 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
         }
         
         Row {
-
+          
           IconButton(
             onClick = { /* TODO */ },
             modifier = Modifier
@@ -163,9 +164,11 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
           Spacer(modifier = Modifier.width(8.dp))
           
           IconButton(
-            onClick = { scope.launch {
-              favoriteRepository.toggleFavorite(provinceName, isFavorite)
-            } },
+            onClick = {
+              scope.launch {
+                favoriteRepository.toggleFavorite(provinceName, isFavorite)
+              }
+            },
             modifier = Modifier
               .background(
                 color = Color.White.copy(alpha = 0.5f),
@@ -199,7 +202,9 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
       shadowElevation = 8.dp
     ) {
       LazyColumn(
-        modifier = Modifier.fillMaxSize(),
+        modifier = Modifier
+          .fillMaxSize()
+          .background(Color(0xFFEEE6D7)),
         contentPadding = PaddingValues(16.dp),
         verticalArrangement = Arrangement.spacedBy(16.dp)
       ) {
@@ -250,6 +255,16 @@ fun ProvinceDetailScreen(provinceName: String, onBack: () -> Unit) {
         
         item {
           GeographySection(province = province!!)
+        }
+        
+        item {
+          TouristSitesSection(
+            province = province!!,
+            onSiteClick = { site ->
+              // Navegar a detalle del sitio
+              onNavigate(Routes.List.ProvinceDetail.TouristSiteDetail(site, province!!.name))
+            }
+          )
         }
         
         item {

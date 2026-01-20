@@ -17,6 +17,7 @@ object ListStrings {
     val keyDataSection: String,
     val geographySection: String,
     val historySection: String,
+    val touristSitesSection: String,
     
     // Tabs del bottom bar
     val list: String,
@@ -40,6 +41,7 @@ object ListStrings {
     keyDataSection = "Datos Clave",
     geographySection = "Geografía",
     historySection = "Historia",
+    touristSitesSection = "Sitios Turísticos",
     
     list = "Lista",
     map = "Mapa",
@@ -61,6 +63,7 @@ object ListStrings {
     keyDataSection = "Key Data",
     geographySection = "Geography",
     historySection = "History",
+    touristSitesSection = "Sitios Turísticos",
     
     list = "List",
     map = "Map",
@@ -82,6 +85,7 @@ object ListStrings {
     keyDataSection = "Dados-chave",
     geographySection = "Geografía",
     historySection = "História",
+    touristSitesSection = "Sitios Turísticos",
     
     list = "Lista",
     map = "Mapa",
@@ -99,6 +103,7 @@ object ListStrings {
     noa = "NOA",
     nea = "NEA",
     patagonia = "PATAGONIE",
+    touristSitesSection = "Sitios Turísticos",
     
     keyDataSection = "Données clés",
     geographySection = "Géographié",

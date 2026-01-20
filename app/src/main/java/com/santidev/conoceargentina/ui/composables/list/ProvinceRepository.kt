@@ -74,6 +74,13 @@ class ProvinceRepository(private val context: Context) {
       try {
         val item = jsonArray.getJSONObject(i)
         val name = item.getString("name")
+        
+        val touristSitesJson = if (item.has("touristSites")) {
+          item.getJSONArray("touristSites").toString()
+        } else {
+          null
+        }
+        
         Log.d("ProvinceRepository", "Parseando: $name")
         entities.add(
           ProvincesEntity(
@@ -88,7 +95,8 @@ class ProvinceRepository(private val context: Context) {
             relevantData = item.optString("relevantData"),
             geography = item.optString("geography"),
             capital = item.optString("capital"),
-            size = item.optString("size")
+            size = item.optString("size"),
+            touristSites = touristSitesJson
           )
         )
         Log.d("ProvinceRepository", "✅ $name parseado correctamente")
@@ -136,11 +144,12 @@ class ProvinceRepository(private val context: Context) {
       relevantData = this.relevantData,
       geography = this.geography,
       capital = this.capital,
-      size = this.size
+      size = this.size,
+      touristSites = parseTouristSites(this.touristSites)
     )
   }
   
-  private fun getImageResource(imageName: String): Int {
+  internal fun getImageResource(imageName: String): Int {
     val resId = context.resources.getIdentifier(
       imageName,
       "drawable",
@@ -152,6 +161,25 @@ class ProvinceRepository(private val context: Context) {
       android.R.drawable.ic_menu_gallery
     } else {
       resId
+    }
+  }
+  
+  private fun parseTouristSites(jsonString: String?): List<TouristSite> {
+    if (jsonString == null) return emptyList()
+    
+    return try {
+      val jsonArray = JSONArray(jsonString)
+      List(jsonArray.length()) { index ->
+        val site = jsonArray.getJSONObject(index)
+        TouristSite(
+          name = site.getString("name"),
+          description = site.getString("description"),
+//          imageSites = site.getString("imageSites")
+        )
+      }
+    } catch (e: Exception) {
+      Log.e("ProvinceRepository", "Error parseando sitios turísticos", e)
+      emptyList()
     }
   }
 }

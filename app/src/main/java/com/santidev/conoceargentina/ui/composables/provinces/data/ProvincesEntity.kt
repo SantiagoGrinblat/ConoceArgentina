@@ -18,5 +18,6 @@ data class ProvincesEntity(
   val relevantData: String? = null,
   val geography: String? = null,
   val capital: String? = null,
-  val size: String? = null
+  val size: String? = null,
+  val touristSites: String? = null
 )

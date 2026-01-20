@@ -24,6 +24,7 @@ import androidx.navigation3.ui.NavDisplay
 import com.santidev.conoceargentina.navigation.Routes
 import com.santidev.conoceargentina.navigation.bottomNavItems
 import com.santidev.conoceargentina.navigation.isBottomNavRoute
+import com.santidev.conoceargentina.ui.composables.provinces.composables.TouristSiteDetailScreen
 import com.santidev.conoceargentina.ui.screens.FavoriteScreen
 import com.santidev.conoceargentina.ui.screens.HomeScreen
 import com.santidev.conoceargentina.ui.screens.ListScreen
@@ -37,7 +38,7 @@ fun NavWrapper() {
   Box(modifier = Modifier.fillMaxWidth()) {
     Scaffold(
       modifier = Modifier.fillMaxWidth(),
-      containerColor = Color.Transparent,
+      containerColor = Color(0xFFEEE6D7),
       bottomBar = {
         val currentRoutes = backStack.lastOrNull() as? Routes
         if (currentRoutes?.isBottomNavRoute() == true) {
@@ -96,6 +97,16 @@ fun NavWrapper() {
               val provinceName = backStackEntry.provinceName
               ProvinceDetailScreen(
                 provinceName = provinceName,
+                onBack = { backStack.removeLastOrNull() },
+                onNavigate = { route -> backStack.add(route) }
+              )
+            }
+            
+            entry<Routes.List.ProvinceDetail.TouristSiteDetail> { backStackEntry ->
+              val tourist = backStackEntry.site as Routes.List.ProvinceDetail.TouristSiteDetail
+              TouristSiteDetailScreen(
+                site = tourist.site,
+                provinceName = tourist.provinceName,
                 onBack = { backStack.removeLastOrNull() }
               )
             }

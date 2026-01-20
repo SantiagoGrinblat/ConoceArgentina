@@ -4,321 +4,1034 @@
     "info": "Provincia más poblada de Argentina, motor económico del país y eje central de la producción agroindustrial.",
     "image": "buenosaires",
     "region": "CENTRO",
-    "icons": ["city", "industry", "agriculture"],
+    "icons": [
+      "city",
+      "industry",
+      "agriculture"
+    ],
     "population": "17.5M",
     "maximumAltitude": "1.239m",
     "history": "El territorio bonaerense estuvo habitado por pueblos originarios como los querandíes. Tras la fundación de Buenos Aires en 1580, la región se consolidó como núcleo político y económico del país.",
     "relevantData": "El puerto de Buenos Aires fue clave para el comercio exterior argentino durante los siglos XIX y XX.",
     "geography": "Predominan las llanuras pampeanas, con costas sobre el Mar Argentino y sistemas serranos como Tandilia y Ventania.",
     "capital": "La Plata",
-    "size": "307.571 km2"
+    "size": "307.571 km²",
+    "touristSites": [
+      {
+        "name": "Plaza de Mayo",
+        "description": "Es el corazón histórico y cívico de Buenos Aires, rodeada por la Casa Rosada, el Cabildo colonial y la Catedral Metropolitana, escenario de eventos clave en la historia argentina.",
+        "imageSites": "buenosaires1"
+      },
+      {
+        "name": "El Obelisco",
+        "description": "Ubicado en la avenida 9 de Julio, es el ícono más reconocido de la ciudad, construido para conmemorar el cuarto centenario de la fundación de Buenos Aires y desde donde se divisan vistas panorámicas de la ciudad.",
+        "imageSites": "buenosaires2"
+      },
+      {
+        "name": "La Boca",
+        "description": "Barrio colorido junto al río, destaca por sus conventillos pintados de vivos colores, especialmente en Caminito, un museo a cielo abierto con arte callejero, shows de tango y artesanías. ",
+        "imageSites": "buenosaires3"
+      },
+      {
+        "name": "Puerto Madero",
+        "description": "Es resultado de la reconversión de antiguos muelles, es un barrio elegante con arquitectura moderna, donde destaca el Puente de la Mujer, diseñado por Santiago Calatrava y simbolizando una pareja bailando tango.",
+        "imageSites": "buenosaires4"
+      },
+      {
+        "name": "Cementerio de la Recoleta",
+        "description": "Es más que un lugar de descanso: un museo a cielo abierto con mausoleos de mármol y esculturas notables, donde descansa Eva Perón, y que atrae a millones de visitantes por su historia, arte y arquitectura.",
+        "imageSites": "buenosaires5"
+      }
+    ]
   },
   {
     "name": "Catamarca",
     "info": "Provincia de paisajes áridos y montañosos, con fuerte identidad cultural y minera.",
     "image": "catamarca",
     "region": "NOA",
-    "icons": ["mountain", "mining", "nature"],
+    "icons": [
+      "mountain",
+      "mining",
+      "nature"
+    ],
     "population": "430K",
     "maximumAltitude": "6.893m",
     "history": "Fundada en 1683, Catamarca conservó una fuerte tradición indígena y colonial. Históricamente estuvo vinculada a la minería y al comercio regional.",
     "relevantData": "Es una de las principales productoras de litio y minerales del país.",
     "geography": "Predominan sierras, valles y regiones desérticas, con escasa población concentrada en oasis.",
     "capital": "San Fernando del Valle de Catamarca",
-    "size": "102.602 km2"
+    "size": "102.602 km²",
+    "touristSites": [
+      {
+        "name": "San Fernando del Valle de Catamarca",
+        "description": "Es la capital y punto de partida ideal para explorar la provincia, destacando por su centro histórico con edificios coloniales, la Catedral Basílica de Nuestra Señora del Valle y eventos culturales como la Fiesta Nacional del Poncho.",
+        "imageSites": "CatamarcaS1"
+      },
+      {
+        "name": "Cuesta del Portezuelo",
+        "description": "Es una de las rutas más emblemáticas, con 20 kilómetros de curvas cerradas que conectan la capital con zonas altas, ofreciendo miradores impresionantes y oportunidades para practicar parapente y trekking.",
+        "imageSites": "CatamarcaS2"
+      },
+      {
+        "name": "Fiambalá",
+        "description": "Se destaca por sus aguas termales, consideradas curativas y relajantes, con temperaturas entre 28 y 52 °C, además de ser punto de partida para la Ruta de los Seismiles y actividades astronómicas por su cielo despejado. ",
+        "imageSites": "CatamarcaS3"
+      },
+      {
+        "name": "Ruinas del Shincal",
+        "description": "Son un sitio arqueológico preincaico de la cultura Quilmes, ubicado en la región sur de la provincia, con calles empedradas y restos de edificios que revelan la sofisticada ingeniería de esta civilización antigua.",
+        "imageSites": "CatamarcaS4"
+      },
+      {
+        "name": "Campo de Piedra Pómez",
+        "description": "En Antofagasta de las Sierras, es un paisaje único de formaciones rocosas blancas y rosadas moldeadas por el viento, accesible solo en 4×4 o excursión organizada, y considerado uno de los tesoros naturales más impresionantes de la Puna.",
+        "imageSites": "CatamarcaS5"
+      }
+    ]
   },
   {
     "name": "Chaco",
     "info": "Provincia de clima cálido y gran desarrollo agroindustrial.",
     "image": "chaco",
     "region": "NEA",
-    "icons": ["agriculture", "heat", "industry"],
+    "icons": [
+      "agriculture",
+      "heat",
+      "industry"
+    ],
     "population": "1.2M",
     "maximumAltitude": "300m",
     "history": "Incorporado tardíamente al Estado argentino, Chaco se desarrolló con la expansión agrícola y forestal a fines del siglo XIX y comienzos del XX.",
     "relevantData": "Es uno de los principales productores de algodón del país.",
     "geography": "Predomina un relieve llano con bosques chaqueños y clima subtropical.",
     "capital": "Resistencia",
-    "size": "99.633 km2"
+    "size": "99.633 km²",
+    "touristSites": [
+      {
+        "name": "Resistencia",
+        "description": "Es la capital de la provincia y un destino imperdible, conocida como la Ciudad de las Esculturas por sus cientos de obras repartidas en el área céntrica.  El Museo de Esculturas en su corazón, con 15 mil metros cuadrados, alberga una amplia colección de arte contemporáneo",
+        "imageSites": "ChacoS1"
+      },
+      {
+        "name": "Parque Nacional El Impenetrable",
+        "description": "El más grande del norte argentino, con 130.000 hectáreas, es un referente ecoturístico internacional.  Ofrece senderismo, cabalgatas, avistaje de aves y turismo comunitario en lugares como Misión Nueva Pompeya y Villa Río Bermejito, donde se puede disfrutar de playas cálidas y actividades acuáticas.",
+        "imageSites": "ChacoS2"
+      },
+      {
+        "name": "Isla del Cerrito",
+        "description": "Situada en la confluencia del Río Paraguay con el Paraná, esta isla de 12.000 hectáreas ofrece playas de arena blanca, barrancas, vegetación exuberante y actividades como pesca deportiva, náutica y safaris fotográficos. Posee camping, hosterías y un museo histórico sobre la Guerra de la Triple Alianza. ",
+        "imageSites": "ChacoS3"
+      },
+      {
+        "name": "Parque Nacional Chaco",
+        "description": "a 120 km de Resistencia, alberga sabanas, lagunas y esteros con especies como quebrachos, tapires, osos hormigueros y más de 340 especies de aves.  Es ideal para acampar, caminar por senderos y disfrutar de la naturaleza en estado puro.",
+        "imageSites": "ChacoS4"
+      },
+      {
+        "name": "Reserva Natural Los Chaguares",
+        "description": "a solo 20 km de Resistencia, cuenta con 19 hectáreas de bosque nativo, tres senderos y un Centro de Interpretación donde se aprende sobre la flora y fauna local.  Es un lugar perfecto para una escapada cercana y tranquila.",
+        "imageSites": "ChacoS5"
+      }
+    ]
   },
   {
     "name": "Chubut",
     "info": "Provincia patagónica reconocida por su fauna marina y herencia galesa.",
     "image": "chubut",
     "region": "PATAGONIA",
-    "icons": ["whale", "coast", "culture"],
+    "icons": [
+      "whale",
+      "coast",
+      "culture"
+    ],
     "population": "600K",
     "maximumAltitude": "2.961m",
     "history": "Chubut recibió una importante inmigración galesa a partir de 1865, dejando un legado cultural distintivo en la región.",
     "relevantData": "La Península Valdés es Patrimonio Natural de la Humanidad por la UNESCO.",
     "geography": "Predomina la meseta patagónica, con costas sobre el Atlántico y áreas cordilleranas al oeste.",
     "capital": "Rawson",
-    "size": "224.686 km2"
+    "size": "224.686 km²",
+    "touristSites": [
+      {
+        "name": "Puerto Madryn",
+        "description": "Destaca como uno de los destinos más turísticos de Chubut, conocido por su conexión con la historia de la ballena franca austral y por ser punto de partida para visitar la Península Valdés, un sitio natural de importancia mundial.",
+        "imageSites": "ChubutS1"
+      },
+      {
+        "name": "Península Valdés",
+        "description": "Es un destino clave para avistaje de ballenas, pingüinos, lobos marinos y elefantes marinos, y está inscrita como Patrimonio de la Humanidad por la UNESCO. ",
+        "imageSites": "ChubutS2"
+      },
+      {
+        "name": "Punta Tombo",
+        "description": "Ubicada al sur de Puerto Madryn, alberga la mayor colonia de pingüinos de Magallanes del mundo, con cerca de un millón de ejemplares, y es un atractivo esencial para los amantes de la naturaleza.",
+        "imageSites": "ChubutS3"
+      },
+      {
+        "name": "Parque Nacional Los Alerces",
+        "description": "Declarado Patrimonio de la Humanidad en 2017, ofrece impresionantes bosques de alerces milenarios, lagos cristalinos y senderos para trekking, siendo un destino privilegiado en la cordillera.",
+        "imageSites": "ChubutS4"
+      },
+      {
+        "name": "Esquel",
+        "description": "Ciudad de la zona cordillerana, combina una rica herencia galesa con una infraestructura turística sólida, y actúa como puerta de entrada al Parque Nacional Los Alerces y a pueblos como Trevelin, con sus tradiciones y paisajes únicos.",
+        "imageSites": "ChubutS5"
+      }
+    ]
   },
   {
     "name": "Córdoba",
     "info": "Provincia ubicada en el centro del país, reconocida por su importancia histórica, educativa e industrial.",
     "image": "cordoba",
     "region": "CENTRO",
-    "icons": ["mountain", "education", "industry"],
+    "icons": [
+      "mountain",
+      "education",
+      "industry"
+    ],
     "population": "3.9M",
     "maximumAltitude": "2.790m",
     "history": "Fundada en 1573 por Jerónimo Luis de Cabrera, Córdoba fue un punto estratégico en el Virreinato del Río de la Plata. Alberga la Universidad Nacional de Córdoba, fundada en 1613, una de las más antiguas de América.",
     "relevantData": "Córdoba fue escenario clave de movimientos políticos y sociales, como la Reforma Universitaria de 1918, que influyó en toda América Latina.",
     "geography": "Combina llanuras fértiles con las Sierras de Córdoba, que atraviesan la provincia de norte a sur, generando valles turísticos y microclimas.",
     "capital": "Córdoba",
-    "size": "165.321 km2"
+    "size": "165.321 km²",
+    "touristSites": [
+      {
+        "name": "Córdoba Capital",
+        "description": "Patrimonio de la Humanidad por la UNESCO, destaca por su casco histórico con la Manzana Jesuítica, la Catedral, el Cabildo y la Universidad Nacional. Ideal para recorrer a pie y disfrutar de sus plazas, museos como el Emilio Caraffa y la gastronomía en zonas como Güemes. ",
+        "imageSites": "cordobaS1"
+      },
+      {
+        "name": "Capilla del Monte",
+        "description": "Conocida por su avenida techada única en el mundo y la leyenda del Cerro Uritorco, considerado estacionamiento de naves espaciales.  Perfecta para trekking, visitar sus cascadas y explorar su atmósfera mística.",
+        "imageSites": "cordobaS2"
+      },
+      {
+        "name": "Villa Carlos Paz:",
+        "description": "El destino por excelencia en la provincia, con su reloj cucú emblemático, el dique San Roque y una intensa vida nocturna con teatros, casinos y actividades acuáticas. Ideal para entretenimiento y vistas panorámicas.",
+        "imageSites": "cordobaS3"
+      },
+      {
+        "name": "Mina Clavero y Nono",
+        "description": "Destinos ideales para actividades al aire libre. Playas naturales en ríos como el Panaholma, actividades como cuatriciclos, parapente y visitas a museos como el Museo Rocsen en Nono.",
+        "imageSites": "cordobaS4"
+      },
+      {
+        "name": "La Cumbrecita",
+        "description": "Pueblo peatonal alpino a 1.450 metros de altura, con arquitectura alemana, calles empedradas, cascadas y senderos para familias. Ideal para desconectar, hacer tirolesa o disfrutar de su gastronomía alemana y austríaca.",
+        "imageSites": "cordobaS5"
+      }
+    ]
   },
   {
     "name": "Corrientes",
     "info": "Provincia de fuerte identidad cultural, chamamé y vastos humedales.",
     "image": "corrientes",
     "region": "NEA",
-    "icons": ["river", "culture", "wetlands"],
+    "icons": [
+      "river",
+      "culture",
+      "wetlands"
+    ],
     "population": "1.1M",
     "maximumAltitude": "150m",
     "history": "Fundada en 1588, Corrientes mantuvo una marcada identidad federal y tuvo un rol activo en la historia política del país.",
     "relevantData": "Los Esteros del Iberá conforman uno de los humedales más importantes de América del Sur.",
     "geography": "Predominan planicies, esteros y la influencia de los ríos Paraná y Uruguay.",
     "capital": "Corrientes",
-    "size": "88.199 km2"
+    "size": "88.199 km²",
+    "touristSites": [
+      {
+        "name": "Esteros del Iberá",
+        "description": "Uno de los humedales más importantes del mundo, ideal para el ecoturismo, avistamiento de fauna (incluyendo yaguaretés recién nacidos), paseos en lancha y caminatas guiadas.",
+        "imageSites": "corrientesS1"
+      },
+      {
+        "name": "Costanera de Corrientes",
+        "description": "Oficialmente Costanera General San Martín, es un paseo a lo largo del Río Paraná que combina belleza natural, cultura, gastronomía local (como surubí y dorado) y actividades recreativas.",
+        "imageSites": "corrientesS2"
+      },
+      {
+        "name": "Puente General Manuel Belgrano",
+        "description": "Uno de los puentes más largos del país, con 2.5 km de extensión, que une Corrientes con Resistencia (Chaco), destacado por su arquitectura y su importancia estratégica.",
+        "imageSites": "corrientesS3"
+      },
+      {
+        "name": "Catedral de Corrientes",
+        "description": "Conocida como Iglesia Nuestra Señora del Rosario, es uno de los edificios más antiguos y emblemáticos de la ciudad, con rica arquitectura y valor histórico-religioso.",
+        "imageSites": "corrientesS4"
+      },
+      {
+        "name": "Balneario Paso de la Patria",
+        "description": "Destino popular con playas, ambiente relajado y excelente para deportes acuáticos y pesca deportiva, especialmente de dorado y surubí.",
+        "imageSites": "corrientesS5"
+      }
+    ]
   },
   {
     "name": "Entre Ríos",
     "info": "Provincia mesopotámica caracterizada por sus ríos, termas y una fuerte identidad federal.",
     "image": "entrerios",
     "region": "CENTRO",
-    "icons": ["river", "nature", "hot_spring"],
+    "icons": [
+      "river",
+      "nature",
+      "hot_spring"
+    ],
     "population": "1.4M",
     "maximumAltitude": "127m",
     "history": "Entre Ríos fue un bastión del federalismo argentino y cuna de líderes como Justo José de Urquiza. La provincia tuvo un rol decisivo en la organización nacional durante el siglo XIX.",
     "relevantData": "Aquí se desarrolló la Confederación Argentina, con capital en Paraná entre 1854 y 1861.",
     "geography": "Se encuentra delimitada por los ríos Paraná y Uruguay, con un relieve predominantemente llano y numerosas áreas de humedales.",
     "capital": "Paraná",
-    "size": "78.781 km2"
+    "size": "78.781 km²",
+    "touristSites": [
+      {
+        "name": "Gualeguaychú",
+        "description": "Destaca por su vibrante Carnaval, sus playas junto al río Uruguay y el paseo costanera, además del puente internacional San Martín que conecta con Fray Bentos (Uruguay).",
+        "imageSites": "entreriosS1"
+      },
+      {
+        "name": "Colón",
+        "description": "Es conocida por el Parque Nacional El Palmar, un ícono natural con palmeras yatay de hasta 800 años, y su extensa costanera de 7 km.",
+        "imageSites": "entreriosS2"
+      },
+      {
+        "name": "Concepción del Uruguay",
+        "description": "Alberga el Palacio San José, antigua residencia del General Justo José de Urquiza, y el Monumento al General Urquiza, en un parque con vistas al río. ",
+        "imageSites": "entreriosS3"
+      },
+      {
+        "name": "Concordia",
+        "description": "Destaca por las ruinas del Castillo San Carlos, un antiguo palacio con escaleras de mármol y muros envejecidos, y la impresionante represa de Salto Grande.",
+        "imageSites": "entreriosS4"
+      },
+      {
+        "name": "Federación",
+        "description": "Ofrece el moderno Complejo Termal Las Garzas, con parque acuático, toboganes y piscinas con olas, ideal para relajarse y disfrutar de aguas termales.",
+        "imageSites": "entreriosS5"
+      }
+    ]
   },
   {
     "name": "Formosa",
     "info": "Provincia fronteriza con fuerte presencia de ríos y diversidad cultural.",
     "image": "formosa",
     "region": "NEA",
-    "icons": ["river", "culture", "nature"],
+    "icons": [
+      "river",
+      "culture",
+      "nature"
+    ],
     "population": "610K",
     "maximumAltitude": "200m",
     "history": "Fundada en 1879, Formosa se consolidó como provincia a mediados del siglo XX, con una identidad marcada por la convivencia de pueblos originarios.",
     "relevantData": "Posee una importante diversidad étnica y cultural, con comunidades indígenas como los wichí, qom y pilagá.",
     "geography": "Territorio mayormente llano, atravesado por ríos como el Pilcomayo y el Paraguay, con clima cálido.",
     "capital": "Formosa",
-    "size": "72.066 km2"
+    "size": "72.066 km²",
+    "touristSites": [
+      {
+        "name": "Parque Nacional Río Pilcomayo",
+        "description": "Uno de los principales atractivos turísticos de Formosa, este parque nacional alberga más de 300 especies de aves, así como mamíferos y una rica flora. Destacan las áreas de recreación en Laguna Blanca y Esteros Poi, ideales para caminatas, avistamiento de fauna y disfrutar de atardeceres espectaculares.",
+        "imageSites": "formosaS1"
+      },
+      {
+        "name": "Bañado La Estrella",
+        "description": "Este complejo natural, ubicado a 45 km de Las Lomitas, es perfecto para experiencias en contacto con la naturaleza. Permite realizar safaris fotográficos, navegación por sus aguas, visitas guiadas a comunidades aborígenes y criollas, y disfrutar de atardeceres únicos en el Vertedero y el Fortín La Soledad",
+        "imageSites": "formosaS2"
+      },
+      {
+        "name": "Costanera de Formosa",
+        "description": "El paseo fluvial más emblemático de la capital provincial, ideal para caminar, observar el río Paraguay y disfrutar del espectáculo de las Aguas Danzantes, una fuente con iluminación y música que funciona en horarios específicos.",
+        "imageSites": "formosaS3"
+      },
+      {
+        "name": "Campo La Carmela",
+        "description": "Un ranchito encantador a las afueras de Formosa, conocido por su hospitalidad, atardeceres soñados y experiencias rurales como cabalgatas, comidas típicas y convivencia con la naturaleza. Ideal para parejas y familias.",
+        "imageSites": "formosaS4"
+      },
+      {
+        "name": "Reserva Natural Formosa",
+        "description": "Ubicada en el sudoeste de la provincia, esta reserva ofrece caminatas guiadas, miradores con vistas panorámicas de los ríos y un ambiente ideal para observar la flora y fauna local, especialmente al amanecer o al atardecer.",
+        "imageSites": "formosaS5"
+      }
+    ]
   },
   {
     "name": "Jujuy",
     "info": "Provincia andina conocida por su diversidad cultural, paisajes de altura y fuerte herencia indígena.",
     "image": "jujuy",
     "region": "NOA",
-    "icons": ["mountain", "culture", "heritage"],
+    "icons": [
+      "mountain",
+      "culture",
+      "heritage"
+    ],
     "population": "810K",
     "maximumAltitude": "5.896m",
     "history": "Jujuy fue habitada por pueblos originarios como los omaguacas y atacamas. Durante la independencia tuvo un rol clave con el Éxodo Jujeño de 1812, una estrategia decisiva liderada por Manuel Belgrano.",
     "relevantData": "La Quebrada de Humahuaca es Patrimonio de la Humanidad por la UNESCO.",
     "geography": "Presenta una gran variedad de paisajes que incluyen la Puna, la Quebrada de Humahuaca y las Yungas.",
     "capital": "San Salvador de Jujuy",
-    "size": "53.219 km2"
+    "size": "53.219 km²",
+    "touristSites": [
+      {
+        "name": "Quebrada de Humahuaca",
+        "description": "Considerada Patrimonio de la Humanidad por la UNESCO, esta extensa región se destaca por sus impresionantes montañas multicolores, pueblos con historia ancestral y paisajes que cambian con la luz del sol. Es un destino clave para quienes buscan cultura, historia y naturaleza.",
+        "imageSites": "jujuyS1"
+      },
+      {
+        "name": "Purmamarca",
+        "description": "Conocido por el Cerro de los Siete Colores, una formación geológica que exhibe una paleta de tonos que varían con la hora del día.  Es un lugar ideal para fotografía, caminatas y disfrutar de la artesanía local. ",
+        "imageSites": "jujuyS2"
+      },
+      {
+        "name": "Tilcara",
+        "description": "Ubicado en el corazón de la Quebrada, es un pueblo encantador con fuerte arraigo cultural. Su principal atracción es el Pucará de Tilcara, una fortaleza preincaica, y el Museo Arqueológico Dr. Eduardo Casanova, que alberga una rica colección de objetos prehispánicos.",
+        "imageSites": "jujuyS3"
+      },
+      {
+        "name": "Salinas Grandes de Jujuy",
+        "description": "Una de las salinas más grandes del mundo, ubicada en la Puna jujeña. Durante la temporada de lluvias, se forma un espejo de agua que refleja el cielo, creando un paisaje surrealista. Ideal para actividades de aventura y exploración arqueológica.",
+        "imageSites": "jujuyS4"
+      },
+      {
+        "name": "Parque Nacional Calilegua",
+        "description": "Un verdadero paraíso natural en la región de las Yungas, con selva subtropical, ríos, aves exóticas y senderos para trekking. Es el lugar perfecto para quienes buscan contacto con la naturaleza, observación de fauna y tranquilidad.",
+        "imageSites": "jujuyS5"
+      }
+    ]
   },
   {
     "name": "La Pampa",
     "info": "Provincia de extensas llanuras y fuerte tradición rural, ubicada en el centro-sur del país.",
     "image": "pampa",
     "region": "PAMPEANA",
-    "icons": ["plains", "agriculture", "rural"],
+    "icons": [
+      "plains",
+      "agriculture",
+      "rural"
+    ],
     "population": "360K",
     "maximumAltitude": "1.191m",
     "history": "Originalmente habitada por pueblos originarios como los ranqueles, La Pampa fue incorporada al Estado argentino a fines del siglo XIX tras la Conquista del Desierto. Se convirtió en provincia en 1951.",
     "relevantData": "La actividad agropecuaria es el principal motor económico, destacándose la ganadería bovina.",
     "geography": "Predominan las llanuras semiáridas, con sierras bajas al oeste y una transición hacia la región patagónica.",
     "capital": "Santa Rosa",
-    "size": "143.440 km2"
+    "size": "143.440 km²",
+    "touristSites": [
+      {
+        "name": "Reserva Provincial Parque Luro",
+        "description": "El destino más visitado, ubicado a 35 km de Santa Rosa. Destaca por su bosque de caldén, senderos autoguiados, avistaje de aves (más de 160 especies), ciervos en brama (marzo-abril), y el casco histórico de la estancia de Pedro Luro, hoy museo.",
+        "imageSites": "pampaS1"
+      },
+      {
+        "name": "Laguna Guatraché",
+        "description": " Situada al sureste de la provincia, es un destino clave para turistas. Recibió 3.000 visitantes en la primera quincena de enero de 2022.  Ideal para camping, paseos en bote, observación de aves, fangoterapia y actividades en la laguna salada.",
+        "imageSites": "pampaS2"
+      },
+      {
+        "name": "Parque Nacional Lihué Calel",
+        "description": "El único parque nacional de La Pampa, ubicado a 120 km de General Acha. Ofrece senderos para trekking, avistaje de guanacos, pumas, zorros y pinturas rupestres del valle de las Pinturas (1.500 años de antigüedad). Ideal en primavera y otoño.",
+        "imageSites": "pampaS3"
+      },
+      {
+        "name": "Termas de Bernardo Larroudé",
+        "description": "Ubicadas en la RN188, son un referente del turismo termal. Ofrecen piscinas de agua termal, masajes, fangoterapia, cabañas, restaurante y actividades recreativas. Recibieron alrededor de 1.000 visitantes en una quincena de enero.",
+        "imageSites": "pampaS4"
+      },
+      {
+        "name": "Casa de Piedra (Villa Turística)",
+        "description": "Destacada por su ocupación hotelera al 100%, esta localidad ofrece playas, actividades acuáticas y el Mercado Regional Pampeano.  Atrae turistas de todo el país, especialmente por su enoturismo y productos artesanales. ",
+        "imageSites": "pampaS5"
+      }
+    ]
   },
   {
     "name": "La Rioja",
     "info": "Provincia de gran tradición federal y paisajes serranos.",
     "image": "larioja",
     "region": "NOA",
-    "icons": ["mountain", "history", "wine"],
+    "icons": [
+      "mountain",
+      "history",
+      "wine"
+    ],
     "population": "390K",
     "maximumAltitude": "6.795m",
     "history": "La Rioja fue un bastión del federalismo argentino, ligada a la figura de Facundo Quiroga durante las guerras civiles del siglo XIX.",
     "relevantData": "La provincia posee una importante producción vitivinícola y olivícola.",
     "geography": "Predominan sierras, valles y climas áridos con marcadas amplitudes térmicas.",
     "capital": "La Rioja",
-    "size": "89.680 km2"
+    "size": "89.680 km²",
+    "touristSites": [
+      {
+        "name": "Laguna Brava",
+        "description": "Reserva Provincial Laguna Brava es uno de los destinos más emblemáticos de La Rioja, declarada sitio Ramsar por su importancia ecológica. Situada a más de 4.300 msnm, se destaca por su agua azul, su entorno de sal y nieve, y su papel como hábitat de flamencos rosados, vicuñas y guanacos. Ideal para excursiones guiadas, ofrece una experiencia única en medio de la Cordillera de los Andes.",
+        "imageSites": "lariojaS1"
+      },
+      {
+        "name": "Parque Nacional Talampaya",
+        "description": "Patrimonio Mundial de la UNESCO, este parque abarca 215 mil hectáreas y alberga formaciones rocosas impresionantes como el Cañón del Talampaya, la Ciudad Perdida y los Chañares. Ideal para trekking, paseos en 4x4 y recorridos guiados, combina geología, historia prehispánica y riqueza paleontológica.",
+        "imageSites": "lariojaS2"
+      },
+      {
+        "name": "Cuesta de Miranda",
+        "description": "Una de las rutas más emblemáticas de la RN 40, la Cuesta de Miranda ofrece vistas panorámicas sobre el valle de Chilecito y el corazón productivo de La Rioja. Es el inicio del circuito vinícola y un punto clave para conocer el paisaje árido y colorado que caracteriza la región.",
+        "imageSites": "lariojaS3"
+      },
+      {
+        "name": "Reserva Natural y Cultural Los Colorados",
+        "description": "Ubicada en un entorno de formaciones rocosas rojizas, esta reserva combina naturaleza y historia. Sus paredes de piedra albergan arte rupestre ancestral y ofrecen caminatas por senderos que revelan miles de años de presencia humana en el área. ",
+        "imageSites": "lariojaS4"
+      },
+      {
+        "name": "Casa de Piedra (Villa Turística)",
+        "description": "El único parque del mundo donde se descubrieron nidos de huevos de dinosaurios (65 a 95 millones de años), este sitio ofrece un recorrido educativo con réplicas a escala real de 10 especies, un centro de interpretación y actividades para niños y adultos. ",
+        "imageSites": "lariojaS5"
+      }
+    ]
   },
   {
     "name": "Mendoza",
     "info": "Capital internacional del vino y hogar del imponente cerro Aconcagua.",
     "image": "mendoza",
     "region": "CUYO",
-    "icons": ["wine", "mountain", "hiking"],
+    "icons": [
+      "wine",
+      "mountain",
+      "hiking"
+    ],
     "population": "2.01M",
     "maximumAltitude": "6.961m",
-    "history": "Fundada en 1561 por Pedro del Castillo, Mendoza comenzó como un punto de descanso clave en la ruta comerciala travez de los andes. Su sistema de riego unico, las 'acequias', fue heredado de los pueblos indigenas Huarpes y perfeccionado a lo largo de los siglos.",
-    "relevantData": "La provincia jugo un papel clave crucial en la independencia de America del sur, sirviendo como base del ejecito de los andes del General Jose de San Martin antes de su historico cruce de la cordillera en 1817 para liberar Chile",
-    "geography" : "Situada al pie de la cordillera de los Andes, Mendonza presenta un clima arido contienental. La region es famosa por sus oasis artificiales, creados gracias al deshielo de las montañas que alimentan los rios de Mendonza, Tunuyan, Diamante y Atuel (Estas siendo ciudades importantes dentro de la provincia)",
-    "capital": "Ciudad de Mendonza",
-    "size": "148.827 km2"
+    "history": "Fundada en 1561 por Pedro del Castillo, Mendoza comenzó como un punto de descanso clave en la ruta comercial através de los andes. Su sistema de riego unico, las 'acequias', fue heredado de los pueblos indígenas Huarpes y perfeccionado a lo largo de los siglos.",
+    "relevantData": "La provincia jugó un papel clave crucial en la independencia de America del sur, sirviendo como base del ejército de los andes del General José de San Martin antes de su historico cruce de la cordillera en 1817 para liberar Chile",
+    "geography": "Situada al pie de la cordillera de los Andes, Mendoza presenta un clima árido continental. La region es famosa por sus oasis artificiales, creados gracias al deshielo de las montañas que alimentan los ríos de Mendoza, Tunuyan, Diamante y Atuel (Estas siendo ciudades importantes dentro de la provincia)",
+    "capital": "Ciudad de Mendoza",
+    "size": "148.827 km²",
+    "touristSites": [
+      {
+        "name": "Mendoza Capital",
+        "description": "La ciudad es un punto clave por sus plazas, como España, Italia e Independencia, y sus atractivos como el Parque General San Martín, el Cerro de la Gloria y la Calle Arístides, con vistas panorámicas y una atmósfera arbolada única.",
+        "imageSites": "MendozaS1"
+      },
+      {
+        "name": "Cañón del Atuel (San Rafael)",
+        "description": "Uno de los lugares más emblemáticos de la provincia, este cañón de más de 50 km es un museo geológico natural con formaciones rocosas únicas como el elefante, el mendigo, la calavera y los jardines colgantes.  Ideal para rafting, trekking y fotografía.",
+        "imageSites": "MendozaS2"
+      },
+      {
+        "name": "Parque Provincial Aconcagua",
+        "description": "A 185 km de la capital, alberga el cerro Aconcagua (6.962 msnm), el más alto de América.  Ofrece circuitos guiados y autoguiados, como el de Laguna de Horcones, con vistas al pico y sitios arqueológicos de interés incaico.",
+        "imageSites": "MendozaS3"
+      },
+      {
+        "name": "Las Leñas (Malargüe)",
+        "description": "El complejo invernal más importante de Argentina, con pistas de esquí y snowboard, una de las más largas del mundo y actividades de verano como trekking, 4x4 y mountain bike. Abierto todo el año gracias a nieve artificial.",
+        "imageSites": "MendozaS4"
+      },
+      {
+        "name": "Ruta del Vino (Luján de Cuyo, Valle de Uco, Maipú)",
+        "description": "Mendoza es la capital mundial del vino, con bodegas como Salentein, Chandon, Catena Zapata y Zuccardi.  Recorridos guiados, degustaciones y visitas a viñedos son imprescindibles para cualquier viajero.",
+        "imageSites": "MendozaS5"
+      }
+    ]
   },
   {
     "name": "Misiones",
     "info": "Provincia de selva subtropical, famosa por las Cataratas del Iguazú y su biodiversidad única.",
     "image": "misiones",
     "region": "NEA",
-    "icons": ["waterfall", "jungle", "nature"],
+    "icons": [
+      "waterfall",
+      "jungle",
+      "nature"
+    ],
     "population": "1.3M",
     "maximumAltitude": "843m",
     "history": "Misiones estuvo fuertemente influenciada por las misiones jesuíticas guaraníes durante los siglos XVII y XVIII, un legado cultural y arquitectónico único en la región.",
     "relevantData": "Las Cataratas del Iguazú son una de las Siete Maravillas Naturales del Mundo.",
     "geography": "Presenta un relieve ondulado con selva densa, suelos rojos y un clima subtropical húmedo.",
     "capital": "Posadas",
-    "size": "29.801 km2"
+    "size": "29.801 km²",
+    "touristSites": [
+      {
+        "name": "Cataratas del Iguazú",
+        "description": "El atractivo turístico más emblemático de Misiones, ubicado en el Parque Nacional Iguazú.  Con más de 275 saltos de agua, ofrece recorridos como el Circuito Superior, el Circuito Inferior y la Garganta del Diablo, donde se puede sentir la fuerza del río desde cerca. ",
+        "imageSites": "misionesS1"
+      },
+      {
+        "name": "Ruinas Jesuíticas de San Ignacio Miní",
+        "description": "Declaradas Patrimonio de la Humanidad por la UNESCO, estas ruinas son parte de las Reducciones Jesuíticas Guarani.  Su arquitectura en piedra roja y el espectáculo de luces y sonido sobre la historia de los guaraníes y jesuitas hacen de este lugar una experiencia inolvidable.",
+        "imageSites": "misionesS2"
+      },
+      {
+        "name": "Saltos del Moconá",
+        "description": "Ubicados en el Parque Provincial Moconá, estos saltos son únicos por correr paralelos al río Uruguay durante más de 3 km.  Ideal para paseos en lancha, senderismo y avistaje de aves, con especies como tucanes y yaguaretés.",
+        "imageSites": "misionesS3"
+      },
+      {
+        "name": "Minas de Wanda",
+        "description": "A pocos kilómetros de Puerto Iguazú, este complejo de minas de piedras semipreciosas permite explorar túneles de extracción de amatistas, cuarzos y topacios, además de visitar talleres artesanales donde se crean joyas únicas. ",
+        "imageSites": "misionesS4"
+      },
+      {
+        "name": "Parque Temático de la Cruz (Aldea Guaraní) ",
+        "description": "Situado en el parque Cerro Santa Ana (cerca de Posadas), este parque recrea una trampa tradicional guaraní y ofrece una inmersión en la cultura indígena, con comida regional como el tereré, bebidas tradicionales y estructuras de madera hechas con especies nativas.",
+        "imageSites": "misionesS5"
+      }
+    ]
   },
   {
     "name": "Neuquén",
     "info": "Provincia patagónica clave para la producción energética del país.",
     "image": "neuquen",
     "region": "PATAGONIA",
-    "icons": ["energy", "mountain", "lake"],
+    "icons": [
+      "energy",
+      "mountain",
+      "lake"
+    ],
     "population": "730K",
     "maximumAltitude": "4.709m",
     "history": "Neuquén se desarrolló fuertemente a partir del siglo XX con la explotación hidrocarburífera. La provincia adquirió gran relevancia estratégica por los recursos de Vaca Muerta.",
     "relevantData": "Vaca Muerta es una de las mayores formaciones de hidrocarburos no convencionales del mundo.",
     "geography": "Presenta paisajes de cordillera, lagos y estepas, con importantes ríos como el Limay y el Neuquén.",
     "capital": "Neuquén",
-    "size": "94.078 km2"
+    "size": "94.078 km²",
+    "touristSites": [
+      {
+        "name": "Paseo de la Costa de Neuquén",
+        "description": "Un hermoso paseo costero junto al río Limay, ideal para caminar, trotar o andar en bicicleta, con vistas panorámicas y acceso a la península de Hiroki, zona protegida con la confluencia de los ríos Limay y Negro.",
+        "imageSites": "neuquenS1"
+      },
+      {
+        "name": "Plaza de las Banderas",
+        "description": "Monumento emblemático ubicado en el centro de la ciudad capital, con una arquitectura imponente y vistas panorámicas de la ciudad, especialmente hermosas de noche.",
+        "imageSites": "neuquenS2"
+      },
+      {
+        "name": "Iglesia Catedral Neuquén",
+        "description": "Un ícono arquitectónico y religioso de la provincia, conocida por su hermosa fachada y su importancia histórica. Su ubicación central la convierte en un punto obligado para visitar en el recorrido por la capital.",
+        "imageSites": "neuquenS3"
+      },
+      {
+        "name": "Capilla de María Auxiliadora del Paimun",
+        "description": "Localizada en un entorno natural privilegiado, con el Volcán Lanín como fondo, esta capilla es un destino obligado para quienes buscan tranquilidad y belleza natural. Su ubicación en la ruta hacia el Lago Huechulafquen la convierte en un punto de parada ideal.",
+        "imageSites": "neuquenS4"
+      },
+      {
+        "name": "Monumento a San Martín",
+        "description": "Ubicado en el centro de la ciudad, este monumento es un punto de encuentro histórico y visual. Su diseño y ubicación lo convierten en un lugar icónico que invita a la contemplación y a la fotografía. ",
+        "imageSites": "neuquenS5"
+      }
+    ]
   },
   {
     "name": "Río Negro",
     "info": "Provincia diversa que combina cordillera, valles productivos y costa atlántica.",
     "image": "rionegro",
     "region": "PATAGONIA",
-    "icons": ["mountain", "fruit", "coast"],
+    "icons": [
+      "mountain",
+      "fruit",
+      "coast"
+    ],
     "population": "750K",
     "maximumAltitude": "3.470m",
     "history": "Río Negro fue parte del Territorio Nacional de la Patagonia hasta su provincialización en 1955. Su desarrollo estuvo ligado a la fruticultura del Alto Valle.",
     "relevantData": "Es uno de los principales productores de manzanas y peras del país.",
     "geography": "Combina la cordillera andina, los valles irrigados y extensas zonas de meseta y costa atlántica.",
     "capital": "Viedma",
-    "size": "203.013 km2"
+    "size": "203.013 km²",
+    "touristSites": [
+      {
+        "name": "San Carlos de Bariloche",
+        "description": "Uno de los destinos más emblemáticos de Argentina, conocido por sus paisajes montañosos, el Lago Nahuel Huapi y su arquitectura alpina. Ideal para actividades como esquí, senderismo, visitas a chocolates artesanales y recorridos por el Circuito Chico.",
+        "imageSites": "rionegroS1"
+      },
+      {
+        "name": "Parque Nacional Nahuel Huapi",
+        "description": "El primer parque nacional de Argentina, con más de 700,000 hectáreas de bosques, lagos y montañas. Ofrece rutas de trekking, pesca, kayak y campamentos, con accesos a sitios como Isla Victoria, el Bosque de Arrayanes y el Cerro Tronador.",
+        "imageSites": "rionegroS2"
+      },
+      {
+        "name": "El Bolsón",
+        "description": "Pueblo con fuerte esencia bohemia y montañosa, reconocido por sus rutas de trekking, cervecerías artesanales y la red de refugios más grande de Sudamérica. Ideal para conectar con la naturaleza y disfrutar de la gastronomía local. ",
+        "imageSites": "rionegroS3"
+      },
+      {
+        "name": "Cerro Catedral",
+        "description": "Principal centro de esquí de Sudamérica, ubicado en Bariloche. En invierno atrae a miles de visitantes; en verano ofrece senderismo, mountain biking y vistas panorámicas desde sus teleféricos.",
+        "imageSites": "rionegroS4"
+      },
+      {
+        "name": "Isla Victoria y Bosque de Arrayanes",
+        "description": "Sitios naturales accesibles desde Bariloche, donde se puede navegar por el lago y caminar entre árboles con corteza canela. Un destino perfecto para quienes buscan tranquilidad y belleza natural.",
+        "imageSites": "rionegroS5"
+      }
+    ]
   },
   {
     "name": "Salta",
     "info": "Provincia de gran riqueza histórica y cultural, conocida como 'Salta la Linda'.",
     "image": "salta",
     "region": "NOA",
-    "icons": ["colonial", "mountain", "culture"],
+    "icons": [
+      "colonial",
+      "mountain",
+      "culture"
+    ],
     "population": "1.4M",
     "maximumAltitude": "6.739m",
     "history": "Fundada en 1582, Salta fue un bastión estratégico durante las guerras de independencia bajo el liderazgo de Martín Miguel de Güemes.",
     "relevantData": "El general Güemes organizó la guerra gaucha, clave para frenar los avances realistas desde el Alto Perú.",
     "geography": "Combina valles fértiles, selvas de Yungas y regiones de alta montaña.",
     "capital": "Salta",
-    "size": "155.488 km2"
+    "size": "155.488 km²",
+    "touristSites": [
+      {
+        "name": "Ciudad de Salta",
+        "description": "La capital salteña, fundada en 1582, es una de las ciudades coloniales mejor conservadas de Argentina. Destacan la Catedral Basílica, el Cabildo (actual Museo Histórico del Norte) y el Convento de San Bernardo, junto con el Cerro San Bernardo, donde se encuentra la escultura de Cristo Redentor.  Un paseo por el centro histórico es imprescindible.",
+        "imageSites": "saltaS1"
+      },
+      {
+        "name": "Cafayate",
+        "description": "Ubicado en los Valles Calchaquíes, es el epicentro del vino de altura en Argentina, especialmente del Torrontés.  Se recomienda visitar las bodegas, el Museo de la Vid y el Vino, y explorar la Quebrada de las Conchas, con sus formaciones rocosas coloridas como La Garganta del Diablo y El Sapo. ",
+        "imageSites": "saltaS2"
+      },
+      {
+        "name": "Tren a las Nubes",
+        "description": "Una experiencia única que recorre más de 600 kilómetros desde Salta hasta San Antonio de los Cobres, alcanzando los 4.220 metros sobre el nivel del mar.  El recorrido incluye el icónico Viaducto La Polvorilla, y es considerado una de las aventuras ferroviarias más emblemáticas del mundo.",
+        "imageSites": "saltaS3"
+      },
+      {
+        "name": "Salinas Grandes",
+        "description": "El salar más grande de Argentina, con más de 100 km² de superficie blanca. Su paisaje surrealista, con cielos azules contrastando con el salar y las montañas andinas, lo convierte en un destino fotográfico inigualable.  Ideal para caminatas y fotografías.",
+        "imageSites": "saltaS4"
+      },
+      {
+        "name": "Cachi",
+        "description": "Un pueblo colonial con calles empedradas y arquitectura de adobe y piedra. Destaca su iglesia neogótica del siglo XIX, Monumento Histórico Nacional, y el Museo Arqueológico Pío Pablo Díaz. También es punto de partida para ascensos al Nevado de Cachi (6.380 m), una montaña icónica para escaladores.",
+        "imageSites": "saltaS5"
+      }
+    ]
   },
   {
     "name": "San Juan",
     "info": "Provincia andina destacada por su producción minera, vitivinícola y su elevado potencial solar.",
     "image": "sanjuan",
     "region": "CUYO",
-    "icons": ["sun", "mountain", "mining"],
+    "icons": [
+      "sun",
+      "mountain",
+      "mining"
+    ],
     "population": "820K",
     "maximumAltitude": "6.960m",
     "history": "Fundada en 1562 por Juan Jufré, San Juan fue cuna de Domingo Faustino Sarmiento, una de las figuras más influyentes de la historia argentina. La provincia ha sido marcada por importantes terremotos que definieron su arquitectura moderna.",
     "relevantData": "Es una de las principales provincias mineras del país y líder en el desarrollo de energías renovables, especialmente energía solar.",
     "geography": "Predomina un paisaje montañoso y árido, con valles irrigados donde se concentra la actividad agrícola. Forma parte de la cordillera Frontal y la cordillera Principal.",
     "capital": "San Juan",
-    "size": "89.651 km2"
+    "size": "89.651 km²",
+    "touristSites": [
+      {
+        "name": "Parque Provincial Ischigualasto (Valle de la Luna)",
+        "description": "Conocido como el 'Valle de la Luna', este parque es uno de los destinos más emblemáticos de San Juan, Declarado Patrimonio de la Humanidad junto al Parque Nacional Talampaya, ofrece un paisaje rocoso único con formaciones geológicas impresionantes, huellas de dinosaurios y un circuito de 42 km para recorrer con guía. Ideal para caminatas, fotografía y actividades nocturnas bajo la luna llena. ",
+        "imageSites": "sanjuanS1"
+      },
+      {
+        "name": "Cerro Mercedario (6.770 msnm)",
+        "description": "El cuarto pico más alto de América y la cumbre más alta de la provincia.  Atracción principal para andinistas y amantes del trekking, con rutas desde Barreal que pueden durar hasta 10 días. La cara norte, usada por los incas, es la más popular. Requiere guías certificados y preparación física. ",
+        "imageSites": "sanjuanS2"
+      },
+      {
+        "name": "Ruta del Vino",
+        "description": "San Juan es la segunda provincia productora de vino de Argentina.  La ruta incluye visitas a bodegas como El Milagro, Bodegas Callia, Entre Tapias y Finca Sierras Azules, con degustaciones de malbec, syrah, torrontés y espumantes.  Se extiende por los valles de Zonda, Ullum y Tulum.",
+        "imageSites": "sanjuanS3"
+      },
+      {
+        "name": "Parque Nacional El Leoncito",
+        "description": "Conocido por tener uno de los cielos más limpios del mundo, este parque alberga el Complejo Astronómico El Leoncito (CASLEO), el telescopio más grande de Argentina.  Ideal para observar estrellas, planetas y satélites. También ofrece senderos, miradores y biodiversidad como guanacos, suris y pumas.",
+        "imageSites": "sanjuanS4"
+      },
+      {
+        "name": "Paso de Agua Negra",
+        "description": "El paso fronterizo más alto entre Argentina y Chile (4.760 msnm), ideal para quienes buscan experiencias de aventura. Conocido por sus paisajes de montañas multicolores, glaciares y rutas de ripio.  Requiere vehículo adecuado y se recomienda hacerlo en temporada seca (octubre a abril).",
+        "imageSites": "sanjuanS5"
+      }
+    ]
   },
   {
     "name": "San Luis",
     "info": "Provincia de transición entre la región pampeana y Cuyo, reconocida por su estabilidad institucional y desarrollo tecnológico.",
     "image": "sanluis",
     "region": "CUYO",
-    "icons": ["technology", "mountain", "nature"],
+    "icons": [
+      "technology",
+      "mountain",
+      "nature"
+    ],
     "population": "540K",
     "maximumAltitude": "2.160m",
     "history": "Fundada en 1594 por Luis Jufré de Loaysa y Meneses, San Luis tuvo un papel relevante como punto de conexión entre el litoral y la región andina durante la colonia.",
     "relevantData": "La provincia se destacó en las últimas décadas por políticas de innovación, conectividad digital y planificación urbana.",
     "geography": "Presenta sierras, llanuras y valles. Las Sierras de San Luis y Comechingones generan paisajes variados y microclimas.",
     "capital": "San Luis",
-    "size": "76.748 km2"
+    "size": "76.748 km²",
+    "touristSites": [
+      {
+        "name": "Villa de Merlo",
+        "description": "Destaca por su microclima benéfico, paisajes serranos y actividades al aire libre como trekking, cabalgatas, tirolesa y escalada.  Es un destino clave para turismo aventura y relajación.",
+        "imageSites": "sanluisS1"
+      },
+      {
+        "name": "Potrero de los Funes",
+        "description": "A solo 20 km de la capital, alberga el dique más antiguo de la provincia y ofrece deportes náuticos, pesca, mountain bike y el emblemático Salto de la Moneda.  Su hotel flotante y autódromo internacional la convierten en un destino único. ",
+        "imageSites": "sanluisS2"
+      },
+      {
+        "name": "Parque Nacional Sierra de Las Quijadas",
+        "description": "Ubicado a 250 km de Merlo, es un reserva natural con formaciones geológicas rojizas y valiosos yacimientos paleontológicos de dinosaurios.  Ideal para senderismo guiado, como el recorrido por las Huellas del Pasado.",
+        "imageSites": "sanluisS3"
+      },
+      {
+        "name": "La Carolina",
+        "description": "En las sierras al norte de la capital, es un pueblo minero histórico con la capilla Nuestra Señora del Carmen, la casa natal del educador Juan Crisóstomo Lafinur y el museo local.  Perfecta para caminatas y turismo arqueológico.",
+        "imageSites": "sanluisS4"
+      },
+      {
+        "name": "San Luis capital",
+        "description": "Ofrece una rica oferta cultural y arquitectónica: la Plaza Pringles, la Catedral, el Museo Dora Ochoa de Masramón, el Muhsal (Museo Interactivo de Historia) y el Hito del Bicentenario.  Ideal para recorrer a pie y descubrir la historia provincial.",
+        "imageSites": "sanluisS5"
+      }
+    ]
   },
   {
     "name": "Santa Cruz",
     "info": "Provincia austral caracterizada por sus glaciares y vastos paisajes naturales.",
     "image": "santacruz",
     "region": "PATAGONIA",
-    "icons": ["glacier", "mountain", "wind"],
+    "icons": [
+      "glacier",
+      "mountain",
+      "wind"
+    ],
     "population": "370K",
     "maximumAltitude": "3.405m",
     "history": "Santa Cruz fue territorio nacional hasta 1957. Su desarrollo estuvo ligado a la ganadería ovina y la explotación petrolera.",
     "relevantData": "El Parque Nacional Los Glaciares alberga el famoso glaciar Perito Moreno.",
     "geography": "Presenta estepas, mesetas, cordillera andina austral y fuertes vientos predominantes.",
     "capital": "Río Gallegos",
-    "size": "243.943 km2"
+    "size": "243.943 km²",
+    "touristSites": [
+      {
+        "name": "Parque Nacional Los Glaciares",
+        "description": "Declarado Patrimonio de la Humanidad por la UNESCO, este parque alberga el famoso Glaciar Perito Moreno, uno de los pocos glaciares del mundo que sigue avanzando.  Es ideal para excursiones como el Minitrekking sobre el hielo y navegación entre témpanos.",
+        "imageSites": "santacruzS1"
+      },
+      {
+        "name": "El Chaltén",
+        "description": "Pequeña villa turística en el corazón del Parque Nacional Los Glaciares, conocida como la Capital Argentina del Trekking.  Desde aquí se accede a rutas emblemáticas para escalar el Monte Fitz Roy y el Glaciar Torre.",
+        "imageSites": "santacruzS2"
+      },
+      {
+        "name": "El Calafate",
+        "description": "Ciudad ubicada a orillas del Lago Argentino, es la puerta de entrada principal al Parque Nacional Los Glaciares.  Ideal para visitar el Glaciar Perito Moreno y disfrutar de paisajes patagónicos únicos.",
+        "imageSites": "santacruzS3"
+      },
+      {
+        "name": "Cueva de las Manos",
+        "description": "Sitio Patrimonio Cultural de la Humanidad por la UNESCO, ubicado en la Ruta 40.  Contiene más de 800 pinturas rupestres realizadas hace unos 14 mil años, representando escenas de caza y figuras humanas.",
+        "imageSites": "santacruzS4"
+      },
+      {
+        "name": "Parque Nacional Perito Moreno",
+        "description": "El único parque nacional que protege la estepa patagónica, con microclimas, fauna autóctona como pumas, guanacos y cóndores, y paisajes desérticos que contrastan con los glaciares.",
+        "imageSites": "santacruzS5"
+      }
+    ]
   },
   {
     "name": "Santa Fe",
     "info": "Provincia clave para la economía nacional gracias a su producción agroindustrial y su acceso al río Paraná.",
     "image": "santafe",
     "region": "CENTRO",
-    "icons": ["river", "agriculture", "port"],
+    "icons": [
+      "river",
+      "agriculture",
+      "port"
+    ],
     "population": "3.6M",
     "maximumAltitude": "125m",
     "history": "Fundada en 1573, Santa Fe fue sede de la Convención Constituyente de 1853, donde se sancionó la Constitución Nacional Argentina.",
     "relevantData": "La provincia alberga uno de los complejos portuarios más importantes del país, esencial para la exportación de granos y derivados.",
     "geography": "Predominan las llanuras pampeanas y la influencia del río Paraná, con extensas zonas de humedales y actividad fluvial.",
     "capital": "Santa Fe",
-    "size": "133.007 km2"
+    "size": "133.007 km²",
+    "touristSites": [
+      {
+        "name": "Puente Colgante (Ingeniero Marcial Candioti)",
+        "description": "Un ícono de la ciudad que conecta la costanera este con el centro, conocido por su iluminación nocturna y vistas al río Paraná. Es uno de los puntos más fotografiados de Santa Fe.",
+        "imageSites": "santafeS1"
+      },
+      {
+        "name": "Convento San Francisco",
+        "description": "Un lugar histórico y espiritualmente significativo, con un templo de gran belleza arquitectónica y un ambiente de paz que lo convierte en imprescindible para visitar.",
+        "imageSites": "santafeS2"
+      },
+      {
+        "name": "Plaza 25 de Mayo",
+        "description": "La plaza principal de la ciudad, ubicada frente a la Casa de Gobierno, con una rica historia y un entorno cuidado, ideal para pasear y disfrutar de la arquitectura colonial.",
+        "imageSites": "santafeS3"
+      },
+      {
+        "name": "Basílica de Nuestra Señora de Guadalupe",
+        "description": "Conocida por su majestuosidad y arquitectura imponente, es uno de los lugares religiosos más visitados y admirados de la provincia.",
+        "imageSites": "santafeS4"
+      },
+      {
+        "name": "Estadio Brigadier General Estanislao López",
+        "description": "El estadio más emblemático de la ciudad, con una historia ligada al fútbol argentino y un ambiente lleno de pasión y tradición.",
+        "imageSites": "santafeS5"
+      }
+    ]
   },
   {
     "name": "Santiago del Estero",
     "info": "Provincia más antigua del país, considerada la 'Madre de Ciudades'.",
     "image": "santiagodelestero",
     "region": "NOA",
-    "icons": ["history", "folklore", "heat"],
+    "icons": [
+      "history",
+      "folklore",
+      "heat"
+    ],
     "population": "1.0M",
     "maximumAltitude": "300m",
     "history": "Fundada en 1553, fue la primera ciudad española establecida en territorio argentino y punto de partida para otras fundaciones coloniales.",
     "relevantData": "Es cuna del folclore argentino y conserva tradiciones culturales muy arraigadas.",
     "geography": "Predomina un relieve llano con clima cálido y seco, atravesado por los ríos Dulce y Salado.",
     "capital": "Santiago del Estero",
-    "size": "136.351 km2"
+    "size": "136.351 km²",
+    "touristSites": [
+      {
+        "name": "Plaza Libertad",
+        "description": "El corazón histórico de la ciudad, rodeada de edificios coloniales, la Catedral Basílica y monumentos que conmemoran hechos importantes. Ideal para pasear, disfrutar de cafés y vivir la vida urbana santiagueña.",
+        "imageSites": "santiagodelesteroS1"
+      },
+      {
+        "name": "Catedral Basílica de Santiago del Estero",
+        "description": "Una de las estructuras más emblemáticas, construida en el siglo XVI con estilo colonial y barroco. Alberga el Museo de Arte Sacro San Francisco Solano y una cripta con restos de los primeros pobladores.",
+        "imageSites": "santiagodelesteroS2"
+      },
+      {
+        "name": "Termas de Río Hondo",
+        "description": "Ciudad-SPA a 60 km de la capital, famosa por sus aguas termales con propiedades curativas. Perfecta para relajarse, con opciones de spa, gastronomía local y actividades acuáticas.",
+        "imageSites": "santiagodelesteroS3"
+      },
+      {
+        "name": "Parque Nacional Copo",
+        "description": "Reserva natural de 100.000 hectáreas en la región del Chaco Seco, ideal para ecoturismo, avistaje de fauna (como yaguaretés y tatú carretas) y senderos interpretativos.",
+        "imageSites": "santiagodelesteroS4"
+      },
+      {
+        "name": "Dique Frontal",
+        "description": " Embalse impresionante a pocos kilómetros de la ciudad, ideal para paseos, picnics, observación de aves y disfrutar de vistas panorámicas. También es un punto clave para la pesca deportiva.",
+        "imageSites": "santiagodelesteroS5"
+      }
+    ]
   },
   {
     "name": "Tierra del Fuego",
     "info": "Provincia más austral del país, conocida como el Fin del Mundo.",
     "image": "tierradelfuego",
     "region": "PATAGONIA",
-    "icons": ["snow", "mountain", "antarctica"],
+    "icons": [
+      "snow",
+      "mountain",
+      "antarctica"
+    ],
     "population": "190K",
     "maximumAltitude": "2.469m",
     "history": "Provincializada en 1990, Tierra del Fuego tuvo un desarrollo tardío marcado por la navegación, la industria electrónica y la presencia antártica.",
     "relevantData": "La provincia ejerce soberanía sobre el sector antártico argentino.",
     "geography": "Combina montañas, bosques subantárticos y costas, con clima frío y ventoso.",
     "capital": "Ushuaia",
-    "size": "21.571 km2"
+    "size": "21.571 km²",
+    "touristSites": [
+      {
+        "name": "Ushuaia",
+        "description": "Considerada la ciudad más austral del mundo, Ushuaia es el epicentro turístico de la provincia. Ofrece un paisaje único con montañas, mar, glaciares y bosques. Destacan actividades como el trekking al Glaciar Vinciguerra y la Laguna Esmeralda, esquiar en el Cerro Castor, recorrer el Canal Beagle y visitar el Museo del Fin del Mundo, construido en 1903, que exhibe testimonios de culturas indígenas, naufragios y la historia de la ciudad.",
+        "imageSites": "tierradelfuegoS1"
+      },
+      {
+        "name": "Parque Nacional Tierra del Fuego",
+        "description": "Creado en 1960, este parque abarca 63 mil hectáreas y alberga bosques de lenga y guindo. Es ideal para senderismo, observación de fauna y exploración de rutas como la Laguna Esmeralda. El acceso se facilita mediante el Tren del Fin del Mundo, un ferrocarril a vapor con vagones decorados que permite recorrer zonas inaccesibles del parque. ",
+        "imageSites": "tierradelfuegoS2"
+      },
+      {
+        "name": "Tren del Fin del Mundo",
+        "description": "Un icónico tren a vapor que conecta Ushuaia con el Parque Nacional Tierra del Fuego. Ofrece vistas panorámicas del paisaje patagónico, con paradas en zonas inaccesibles por vía terrestre. Es una experiencia imperdible para los amantes del ferrocarril y la naturaleza. ",
+        "imageSites": "tierradelfuegoS3"
+      },
+      {
+        "name": "Canal Beagle",
+        "description": "Uno de los principales atractivos naturales, el Canal Beagle conecta el Atlántico con el Pacífico y ofrece navegaciones que incluyen avistaje de pingüinos en la Isla Martillo, lobos marinos en la Isla de los Lobos y aves como albatros y petreles. Los tours en catamarán son populares, especialmente los que combinan navegación con paseos entre pingüinos.",
+        "imageSites": "tierradelfuegoS4"
+      },
+      {
+        "name": "Faro del Fin del Mundo (San Juan de Salvamento)",
+        "description": "Ubicado en la Isla de los Estados, es el faro más antiguo de Argentina y el primero construido en aguas naturales. Aunque no es fácil de acceder, su historia y ubicación estratégica lo convierten en un destino simbólico para quienes buscan el \"fin del mundo\". También se recomienda visitar el Faro Les Éclaireurs, que guía a los navegantes hacia la Bahía de Ushuaia y ofrece vistas espectaculares durante el recorrido desde la ciudad.",
+        "imageSites": "tierradelfuegoS5"
+      }
+    ]
   },
   {
     "name": "Tucumán",
     "info": "Provincia más pequeña del país y cuna de la independencia argentina.",
     "image": "tucuman",
     "region": "NOA",
-    "icons": ["history", "sugar", "culture"],
+    "icons": [
+      "history",
+      "sugar",
+      "culture"
+    ],
     "population": "1.7M",
     "maximumAltitude": "5.550m",
     "history": "En Tucumán se declaró la independencia argentina el 9 de julio de 1816. Desde la colonia, la provincia fue un importante centro agrícola y azucarero.",
     "relevantData": "La Casa Histórica de la Independencia es uno de los monumentos más importantes del país.",
     "geography": "Posee un relieve variado con llanuras, sierras y selvas de Yungas, lo que genera un clima más húmedo que el resto del NOA.",
     "capital": "San Miguel de Tucumán",
-    "size": "22.524 km2"
+    "size": "22.524 km²",
+    "touristSites": [
+      {
+        "name": "San Miguel de Tucumán",
+        "description": " La capital de la provincia es el epicentro histórico y cultural de Tucumán, donde se declaró la Independencia de Argentina el 9 de julio de 1816. Destacan la Casa Histórica de Tucumán, con el Salón de la Jura donde se firmó el Acta de Independencia, la Plaza Independencia, la Catedral de San Miguel (una de las más antiguas del país) y la Basílica Menor de la Merced, Monumento Histórico Nacional. ",
+        "imageSites": "tucumanS1"
+      },
+      {
+        "name": "Tafí del Valle",
+        "description": "Situada a 107 km de la capital, es el centro turístico más importante de la provincia. Ofrece paisajes montañosos, un microclima ideal y actividades como cabalgatas, senderismo, kayak en el Dique La Angostura y visitas a la Cascada Los Alisos en el Cerro Muñoz.  No se puede dejar de ver el Cristo Redentor en la Quebradita y el Museo y Capilla Jesuítica de la Banda.",
+        "imageSites": "tucumanS2"
+      },
+      {
+        "name": "Ruinas de Quilmes",
+        "description": "Ubicadas en los Valles Calchaquíes, son uno de los sitios arqueológicos más grandes del país. Fueron la capital de un antiguo pueblo calchaquí que floreció entre los siglos IX y XVII. Se puede recorrer el Pucará (fortaleza) en el cerro Alto del Rey, el Barrio Bajo con sus viviendas de piedra y adobe, y el Museo de Sitio con piezas y maquetas de la cultura quilmeña.",
+        "imageSites": "tucumanS3"
+      },
+      {
+        "name": "Parque Nacional Los Alisos",
+        "description": "A 100 km de San Miguel de Tucumán, es el único parque nacional con ruinas incaicas y un camino inca en su interior.  Protege ecosistemas de Yungas y Altos Andes, con senderos, cascadas, flora y fauna autóctonas, y miradores con vistas espectaculares. ",
+        "imageSites": "tucumanS4"
+      },
+      {
+        "name": "Amaicha del Valle",
+        "description": " Localidad en los Valles Calchaquíes, conocida por su cultura ancestral y el Carnaval Amaicheño en febrero.  Destacan el Museo Pachamama, el Pueblo Histórico con casas de adobe, el Río Amaicha con pozas naturales y senderos con pinturas rupestres en los cerros Colalao y El Remate.",
+        "imageSites": "tucumanS5"
+      }
+    ]
   }
 ]

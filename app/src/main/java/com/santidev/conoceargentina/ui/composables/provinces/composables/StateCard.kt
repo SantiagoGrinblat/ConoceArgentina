@@ -1,5 +1,6 @@
 package com.santidev.conoceargentina.ui.composables.provinces.composables
 
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -34,7 +35,7 @@ fun StatCard(icon: ImageVector, label: String, value: String) {
       .padding(8.dp),
     shape = RoundedCornerShape(12.dp),
     colors = CardDefaults.cardColors(
-      containerColor = Color.White
+      containerColor = (Color(0xFFEEE4D2))
     ),
     elevation = CardDefaults.cardElevation(defaultElevation = 2.dp),
   ) {
