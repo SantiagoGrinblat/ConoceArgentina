@@ -37,7 +37,7 @@ Esta aplicación móvil está diseñada para ayudar a viajeros y turistas a desc
 ## 📸 Capturas de Pantalla
 
 <p float="left">
-  <img src="/" width="200" />
+  <img src="https://github.com/SantiagoGrinblat/ConoceArgentina/blob/0fdf9610e680e3908fadbbab27f6a37f0fc3b983/image1.png" width="200" />
 </p>
 
 ## 🧰 Tecnologías usadas
@@ -46,7 +46,6 @@ Esta aplicación móvil está diseñada para ayudar a viajeros y turistas a desc
 - 🗃️ Room Database (persistencia de datos y favoritos)
 - 🌐 Sistema de localización con múltiples idiomas
 - 🎨 Material 3 Design
-- 🗺️ Google Maps Integration (intents para ubicaciones)
 - 📦 Navegation 3 (navegación entre pantallas)
 - 🖼️ Coil (carga de imágenes)
 - 💾 Coroutines (operaciones asíncronas)
