@@ -72,6 +72,9 @@ dependencies {
   // DataStore
   implementation(libs.androidx.datastore.preferences)
   
+  // ViewModel
+  implementation(libs.androidx.lifecycle.viewmodel.compose)
+  
   // ========== TESTS ==========
   
   // Unit Tests
