@@ -18,6 +18,8 @@ sealed class Routes: NavKey {
   
   data object Favorites: Routes()
   
+  data object Settings: Routes()
+  
   data object Error: Routes()
   
 }

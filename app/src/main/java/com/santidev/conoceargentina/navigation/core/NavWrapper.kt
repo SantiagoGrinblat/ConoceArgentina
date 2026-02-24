@@ -25,6 +25,7 @@ import com.santidev.conoceargentina.navigation.Routes
 import com.santidev.conoceargentina.navigation.bottomNavItems
 import com.santidev.conoceargentina.navigation.isBottomNavRoute
 import com.santidev.conoceargentina.ui.composables.provinces.composables.TouristSiteDetailScreen
+import com.santidev.conoceargentina.ui.screens.AccessibilitySettingsScreen
 import com.santidev.conoceargentina.ui.screens.FavoriteScreen
 import com.santidev.conoceargentina.ui.screens.HomeScreen
 import com.santidev.conoceargentina.ui.screens.ListScreen
@@ -82,9 +83,11 @@ fun NavWrapper() {
             }
             
             entry<Routes.List> {
-              Box(modifier = Modifier
-                .fillMaxSize()
-                .padding(paddingValues)) {
+              Box(
+                modifier = Modifier
+                  .fillMaxSize()
+                  .padding(paddingValues)
+              ) {
                 ListScreen(
                   onNavigate = { route -> backStack.add(route) }
                 )
@@ -112,10 +115,23 @@ fun NavWrapper() {
             }
             
             entry<Routes.Favorites> {
+              Box(
+                modifier = Modifier
+                  .fillMaxSize()
+                  .padding(paddingValues)
+              ) {
+                FavoriteScreen(
+                  onNavigate = { route -> backStack.add(route) }
+                )
+              }
+            }
+            
+            entry<Routes.Settings> {
               Box(modifier = Modifier
                 .fillMaxSize()
-                .padding(paddingValues)) {
-                FavoriteScreen(
+                .padding(paddingValues)
+              ) {
+                AccessibilitySettingsScreen(
                   onNavigate = { route -> backStack.add(route) }
                 )
               }
