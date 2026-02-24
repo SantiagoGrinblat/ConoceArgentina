@@ -11,7 +11,34 @@
     "relevantData": "The Port of Buenos Aires played a central role in foreign trade during the 19th and 20th centuries.",
     "geography": "Vast fertile plains dominate the province, with Atlantic coastline and low mountain systems.",
     "capital": "La Plata",
-    "size": "307.571 km2"
+    "size": "307.571 km2",
+    "touristSites": [
+      {
+        "name": "Plaza de Mayo",
+        "description": "It is the historical and civic heart of Buenos Aires, surrounded by the Casa Rosada, the colonial Cabildo, and the Metropolitan Cathedral, and has been the setting for key events in Argentine history.",
+        "imageSites": "buenosaires1"
+      },
+      {
+        "name": "The Obelisk",
+        "description": "Located on Avenida 9 de Julio, it is the city’s most recognized icon, built to commemorate the fourth centenary of the founding of Buenos Aires and offering panoramic views of the city.",
+        "imageSites": "buenosaires2"
+      },
+      {
+        "name": "La Boca",
+        "description": "A colorful riverside neighborhood, it stands out for its tenement houses painted in vibrant colors, especially along Caminito, an open-air museum featuring street art, tango shows, and handicrafts.",
+        "imageSites": "buenosaires3"
+      },
+      {
+        "name": "Puerto Madero",
+        "description": "It is the result of the reconversion of former docks into an elegant neighborhood with modern architecture, highlighted by the Puente de la Mujer, designed by Santiago Calatrava and symbolizing a couple dancing the tango.",
+        "imageSites": "buenosaires4"
+      },
+      {
+        "name": "Recoleta Cemetery",
+        "description": "The Recoleta Cemetery is an iconic funerary monument in Buenos Aires, renowned for its artistic and historical value. Its main entrance features a portico formed by four Greek Doric columns, completed during a renovation in 1881. The exterior and interior pediments are adorned with Latin inscriptions: 'Requiescant in pace' (May they rest in peace) on the exterior, and 'Expectamus Dominum' (We await the Lord) on the interior, symbolizing the dialog between the living and the dead.",
+        "imageSites": "buenosaires5"
+      }
+    ]
   },
   {
     "name": "Catamarca",
@@ -25,7 +52,34 @@
     "relevantData": "It is one of Argentina’s main lithium-producing provinces.",
     "geography": "The landscape is dominated by mountain ranges, valleys and desert areas with sparse population.",
     "capital": "San Fernando del Valle de Catamarca",
-    "size": "102.602 km2"
+    "size": "102.602 km2",
+    "touristSites": [
+      {
+        "name": "San Fernando del Valle de Catamarca",
+        "description": "It is the capital and an ideal starting point for exploring the province, notable for its historic center with colonial buildings, the Cathedral Basilica of Our Lady of the Valley, and cultural events such as the National Poncho Festival.",
+        "imageSites": "CatamarcaS1"
+      },
+      {
+        "name": "Cuesta del Portezuelo",
+        "description": "It is one of the most iconic routes, with 20 kilometers of hairpin turns connecting the capital to high-altitude areas, offering stunning viewpoints and opportunities for paragliding and trekking.",
+        "imageSites": "CatamarcaS2"
+      },
+      {
+        "name": "Fiambalá",
+        "description": "It stands out for its hot springs, considered therapeutic and relaxing, with temperatures between 28 and 52°C, as well as for being the starting point of the Route of the Six-Thousanders and for its astronomical activities thanks to its clear skies.",
+        "imageSites": "CatamarcaS3"
+      },
+      {
+        "name": "Shincal Ruins",
+        "description": "They are an Inca archeological site located in the southern part of the province, with cobblestone streets and the remains of buildings that reveal the sophisticated engineering of this ancient civilization.",
+        "imageSites": "CatamarcaS4"
+      },
+      {
+        "name": "Pumice Stone Field (Campo de Piedra Pómez)",
+        "description": "n Antofagasta de las Sierras, it’s a unique landscape of white and pink rock formations sculpted by the wind, accessible only by 4×4 or on an organized tour, and considered one of the Puna’s most impressive natural treasures.",
+        "imageSites": "CatamarcaS5"
+      }
+    ]
   },
   {
     "name": "Chaco",
@@ -39,7 +93,34 @@
     "relevantData": "It is one of Argentina’s main cotton-producing provinces.",
     "geography": "Flat terrain predominates, covered by native forests of the Gran Chaco region.",
     "capital": "Resistencia",
-    "size": "99.633 km2"
+    "size": "99.633 km2",
+    "touristSites": [
+      {
+        "name": "Resistencia",
+        "description": "It is the capital of the province and an unmissable destination, known as the City of Sculptures for its hundreds of works scattered throughout the downtown area. The Sculpture Museum at its heart, spanning 15,000 square meters, houses an extensive collection of contemporary art.",
+        "imageSites": "ChacoS1"
+      },
+      {
+        "name": "El Impenetrable National Park",
+        "description": "The largest in northern Argentina, spanning 130,000 hectares, it is an international ecotourism benchmark. It offers hiking, horseback riding, birdwatching, and community-based tourism in places like Misión Nueva Pompeya and Villa Río Bermejito, where you can enjoy warm beaches and water activities.",
+        "imageSites": "ChacoS2"
+      },
+      {
+        "name": "Isla del Cerrito",
+        "description": "Located at the confluence of the Paraguay and Paraná Rivers, this 12,000-hectare island offers white-sand beaches, bluffs, lush vegetation, and activities such as sport fishing, boating, and photo safaris. It has campsites, guesthouses, and a historical museum about the War of the Triple Alliance.",
+        "imageSites": "ChacoS3"
+      },
+      {
+        "name": "Chaco National Park",
+        "description": "Located 120 km from Resistencia, it features savannas, lagoons, and marshes, home to species such as quebracho trees, tapirs, anteaters, and over 340 species of birds. It’s ideal for camping, hiking trails, and enjoying nature in its purest form.",
+        "imageSites": "ChacoS4"
+      },
+      {
+        "name": "Los Chaguares Nature Reserve",
+        "description": "Just 20 km from Resistencia, it features 19 hectares of native forest, three trails, and an Interpretation Center where you can learn about the local flora and fauna. It’s the perfect place for a nearby, peaceful getaway.",
+        "imageSites": "ChacoS5"
+      }
+    ]
   },
   {
     "name": "Chubut",
@@ -53,7 +134,34 @@
     "relevantData": "Península Valdés is a UNESCO Natural World Heritage Site.",
     "geography": "The landscape is dominated by Patagonian plateaus, with Atlantic coastline and Andean regions in the west.",
     "capital": "Rawson",
-    "size": "224.686 km2"
+    "size": "224.686 km2",
+    "touristSites": [
+      {
+        "name": "Puerto Madryn",
+        "description": "It stands out as one of Chubut’s most popular tourist destinations, known for its connection to the history of the southern right whale and as a starting point for visiting the Valdés Peninsula, a natural site of global importance.",
+        "imageSites": "ChubutS1"
+      },
+      {
+        "name": "Península Valdés",
+        "description": "It is a key destination for whale, penguin, sea lion, and elephant seal watching, and is inscribed as a UNESCO World Heritage Site for its extraordinary biodiversity.",
+        "imageSites": "ChubutS2"
+      },
+      {
+        "name": "Punta Tombo",
+        "description": "Located south of Puerto Madryn, it is home to the world’s largest Magellanic penguin colony, with nearly one million birds, and is an essential attraction for nature lovers.",
+        "imageSites": "ChubutS3"
+      },
+      {
+        "name": "Los Alerces National Park",
+        "description": "Declared a World Heritage Site in 2017, it offers impressive forests of ancient alerce trees, crystal-clear lakes, and hiking trails, making it a privileged destination in the Andes.",
+        "imageSites": "ChubutS4"
+      },
+      {
+        "name": "Esquel",
+        "description": "A city in the mountain region, it combines a rich Welsh heritage with a solid tourism infrastructure, and serves as a gateway to Los Alerces National Park and nearby towns such as Trevelin, with their unique traditions and landscapes.",
+        "imageSites": "ChubutS5"
+      }
+    ]
   },
   {
     "name": "Córdoba",
@@ -67,7 +175,34 @@
     "relevantData": "Córdoba was the birthplace of the 1918 University Reform, which transformed higher education across Latin America.",
     "geography": "The province combines fertile plains with mountain ranges that create valleys and diverse microclimates.",
     "capital": "Córdoba",
-    "size": "165.321 km2"
+    "size": "165.321 km2",
+    "touristSites": [
+      {
+        "name": "Córdoba Capital",
+        "description": "It stands out for its historic center, where the Jesuit Block—a UNESCO World Heritage Site—is located, along with the Cathedral, the Cabildo (City Hall), and the National University.",
+        "imageSites": "cordobaS1"
+      },
+      {
+        "name": "Capilla del Monte",
+        "description": "Known for its one-of-a-kind covered avenue and the legend of Cerro Uritorco, surrounded by tales of sightings and extraterrestrial phenomena. Perfect for trekking, visiting its waterfalls, and exploring its mystical atmosphere.",
+        "imageSites": "cordobaS2"
+      },
+      {
+        "name": "Villa Carlos Paz",
+        "description": "The province’s premier destination, with its iconic cuckoo clock, the San Roque Dam, and a vibrant nightlife featuring theaters, casinos, and water activities. Ideal for entertainment and panoramic views.",
+        "imageSites": "cordobaS3"
+      },
+      {
+        "name": "Mina Clavero",
+        "description": "Ideal destinations for outdoor activities, with natural river beaches like those on the Panaholma River, activities such as ATV riding and paragliding, and visits to museums like the Rocsen Museum in Nono.",
+        "imageSites": "cordobaS4"
+      },
+      {
+        "name": "La Cumbrecita",
+        "description": "An alpine pedestrian village at 1,450 meters above sea level, featuring German architecture, cobblestone streets, waterfalls, and family-friendly trails. Ideal for unwinding, ziplining, or enjoying its German and Austrian cuisine.",
+        "imageSites": "cordobaS5"
+      }
+    ]
   },
   {
     "name": "Corrientes",
@@ -81,7 +216,34 @@
     "relevantData": "The Iberá Wetlands are among the most important ecosystems in South America.",
     "geography": "The landscape is dominated by plains, wetlands and the influence of the Paraná and Uruguay rivers.",
     "capital": "Corrientes",
-    "size": "88.199 km2"
+    "size": "88.199 km2",
+    "touristSites": [
+      {
+        "name": "Iberá Wetlands",
+        "description": "One of the world’s most important wetlands, ideal for ecotourism, wildlife viewing (including iconic species such as the jaguar), boat tours, and guided hikes.",
+        "imageSites": "corrientesS1"
+      },
+      {
+        "name": "Corrientes Riverside (Costanera)",
+        "description": "Officially named Costanera General San Martín, it is a promenade along the Paraná River that combines natural beauty, culture, local cuisine (such as surubí and dorado), and recreational activities.",
+        "imageSites": "corrientesS2"
+      },
+      {
+        "name": "General Manuel Belgrano Bridge",
+        "description": "One of the longest bridges in the country, spanning 2.5 km, connects Corrientes with Resistencia (Chaco), renowned for its architecture and strategic importance.",
+        "imageSites": "corrientesS3"
+      },
+      {
+        "name": "Corrientes Cathedral",
+        "description": "Known as the Church of Our Lady of the Rosary, it is one of the city’s oldest and most iconic buildings, boasting rich architecture and great historical and religious significance.",
+        "imageSites": "corrientesS4"
+      },
+      {
+        "name": "Paso de la Patria",
+        "description": "Popular destination with beaches, a relaxed atmosphere, and excellent opportunities for water sports and sport fishing, especially for dorado and surubí.",
+        "imageSites": "corrientesS5"
+      }
+    ]
   },
   {
     "name": "Entre Ríos",
@@ -95,7 +257,34 @@
     "relevantData": "The Argentine Confederation was based in Paraná between 1854 and 1861.",
     "geography": "Located between the Paraná and Uruguay rivers, the province features flat terrain and numerous wetlands.",
     "capital": "Paraná",
-    "size": "78.781 km2"
+    "size": "78.781 km2",
+    "touristSites": [
+      {
+        "name": "Gualeguaychú",
+        "description": "It stands out for its vibrant Carnival, its beaches along the Uruguay River and its waterfront promenade, as well as the San Martín International Bridge that connects it to Fray Bentos (Uruguay).",
+        "imageSites": "entreriosS1"
+      },
+      {
+        "name": "Colón",
+        "description": "It is known for its proximity to El Palmar National Park, a natural icon with yatay palm trees up to 800 years old, and its extensive 7-km waterfront promenade.",
+        "imageSites": "entreriosS2"
+      },
+      {
+        "name": "Concepción del Uruguay",
+        "description": "It houses the San José Palace, the former residence of General Justo José de Urquiza, and the Monument to General Urquiza, in a park overlooking the river.",
+        "imageSites": "entreriosS3"
+      },
+      {
+        "name": "Concordia",
+        "description": "It stands out for the ruins of San Carlos Castle, an ancient palace with marble staircases and weathered walls, and the impressive Salto Grande Dam.",
+        "imageSites": "entreriosS4"
+      },
+      {
+        "name": "Federación",
+        "description": "It offers the modern Las Garzas Thermal Complex, with a water park, slides, and wave pools, ideal for relaxing and enjoying thermal waters.",
+        "imageSites": "entreriosS5"
+      }
+    ]
   },
   {
     "name": "Formosa",
@@ -109,7 +298,34 @@
     "relevantData": "The province is home to indigenous groups such as the Wichí, Qom and Pilagá.",
     "geography": "Mostly flat territory crossed by major rivers like the Pilcomayo and Paraguay, with a warm climate.",
     "capital": "Formosa",
-    "size": "72.066 km2"
+    "size": "72.066 km2",
+    "touristSites": [
+      {
+        "name": "Río Pilcomayo National Park",
+        "description": "One of Formosa’s main tourist attractions, this national park is home to over 300 bird species, as well as mammals and a rich flora. The recreation areas at Laguna Blanca and Esteros Poi stand out, ideal for hiking, wildlife watching, and enjoying unique sunsets at the Vertedero and Fortín La Soledad.",
+        "imageSites": "formosaS1"
+      },
+      {
+        "name": "Bañado La Estrella",
+        "description": "This natural complex, located 45 km from Las Lomitas, is perfect for experiences in touch with nature. It offers photo safaris, boat trips on its waters, guided tours of indigenous and Creole communities, and the chance to enjoy unique sunsets at the Vertedero and Fortín La Soledad.",
+        "imageSites": "formosaS2"
+      },
+      {
+        "name": "Formosa Waterfront",
+        "description": "The provincial capital’s most iconic riverfront promenade, ideal for walking, watching the Paraguay River, and enjoying the Dancing Waters show—a fountain with lights and music that operates at specific times.",
+        "imageSites": "formosaS3"
+      },
+      {
+        "name": "Campo La Carmela",
+        "description": "A charming establishment on the outskirts of Formosa, known for its hospitality, dreamy sunsets, and rural experiences such as horseback riding, traditional meals, and immersion in nature. Ideal for couples and families.",
+        "imageSites": "formosaS4"
+      },
+      {
+        "name": "Formosa Nature Reserve",
+        "description": "Located in the southwestern part of the province, this reserve offers guided hikes, viewpoints with panoramic river views, and an ideal setting for observing local flora and fauna, especially at sunrise or sunset.",
+        "imageSites": "formosaS5"
+      }
+    ]
   },
   {
     "name": "Jujuy",
@@ -123,7 +339,34 @@
     "relevantData": "The Quebrada de Humahuaca is a UNESCO World Heritage Site.",
     "geography": "The province features a wide variety of landscapes including the Puna plateau, the Quebrada de Humahuaca and the Yungas rainforest.",
     "capital": "San Salvador de Jujuy",
-    "size": "53.219 km2"
+    "size": "53.219 km2",
+    "touristSites": [
+      {
+        "name": "Humahuaca Ravine",
+        "description": "Recognized as a UNESCO World Heritage Site, this vast region stands out for its impressive multicolored mountains, villages with an ancient history, and landscapes that change with the sunlight. It is a key destination for those seeking culture, history, and nature.",
+        "imageSites": "jujuyS1"
+      },
+      {
+        "name": "Purmamarca",
+        "description": "Known for the Hill of Seven Colors, a geological formation that displays a palette of hues that vary with the time of day. It’s an ideal place for photography, hiking, and enjoying local crafts.",
+        "imageSites": "jujuyS2"
+      },
+      {
+        "name": "Tilcara",
+        "description": "Located in the heart of the Quebrada, it is a charming town with deep cultural roots. Its main attraction is the Pucará de Tilcara, a pre-Hispanic fortress of pre-Inca origin, and the Dr. Eduardo Casanova Archeological Museum, which houses a rich collection of pre-Hispanic artifacts.",
+        "imageSites": "jujuyS3"
+      },
+      {
+        "name": "Salinas Grandes",
+        "description": "One of the world’s largest salt flats, located in the Puna region of Jujuy. During the rainy season, a mirror of water forms that reflects the sky, creating a surreal landscape. Ideal for adventure activities and archeological exploration.",
+        "imageSites": "jujuyS4"
+      },
+      {
+        "name": "Calilegua National Park",
+        "description": "A true natural paradise in the Yungas region, with subtropical rainforest, rivers, exotic birds, and hiking trails. It’s the perfect place for those seeking to connect with nature, observe wildlife, and find tranquility.",
+        "imageSites": "jujuyS5"
+      }
+    ]
   },
   {
     "name": "La Pampa",
@@ -137,7 +380,34 @@
     "relevantData": "Livestock farming, especially cattle breeding, is the main economic activity.",
     "geography": "The landscape is dominated by semi-arid plains, with low mountain ranges in the west.",
     "capital": "Santa Rosa",
-    "size": "143.440 km2"
+    "size": "143.440 km2",
+    "touristSites": [
+      {
+        "name": "Parque Luro Provincial Reserve",
+        "description": "The most visited destination, located 35 km from Santa Rosa. It stands out for its caldén forest, self-guided trails, birdwatching (over 160 species), deer rutting (March–April), and the historic main house of Pedro Luro’s estancia, now a museum.",
+        "imageSites": "pampaS1"
+      },
+      {
+        "name": "Guatraché Lagoon",
+        "description": "Located in the southeast of the province, it is a key destination for regional tourism. Ideal for camping, boat trips, birdwatching, mud therapy, and activities on the salt lagoon.",
+        "imageSites": "pampaS2"
+      },
+      {
+        "name": "Lihué Calel National Park",
+        "description": "The only national park in La Pampa, located 120 km from General Acha. It offers hiking trails, guanaco, puma, and fox watching, and 1,500-year-old rock paintings in the Valle de las Pinturas. Ideal in spring and autumn.",
+        "imageSites": "pampaS3"
+      },
+      {
+        "name": "Bernardo Larroudé Thermal Baths",
+        "description": "Located on National Route 188, they are a benchmark for thermal tourism. They offer thermal water pools, massages, mud therapy, cabins, a restaurant, and recreational activities.",
+        "imageSites": "pampaS4"
+      },
+      {
+        "name": "Casa de Piedra (Tourist Village)",
+        "description": "Renowned for its tourism development, this town offers beaches, water activities, and the Pampeano Regional Market. It attracts tourists from all over the country, especially for its wine tourism and artisanal products.",
+        "imageSites": "pampaS5"
+      }
+    ]
   },
   {
     "name": "La Rioja",

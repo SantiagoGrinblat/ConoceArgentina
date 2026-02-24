@@ -29,17 +29,17 @@
       },
       {
         "name": "La Boca",
-        "description": "Barrio colorido junto al río, destaca por sus conventillos pintados de vivos colores, especialmente en Caminito, un museo a cielo abierto con arte callejero, shows de tango y artesanías. ",
+        "description": "Barrio colorido junto al río, destaca por sus conventillos pintados de vivos colores, especialmente en Caminito, un museo a cielo abierto con arte callejero, shows de tango y artesanías.",
         "imageSites": "buenosaires3"
       },
       {
         "name": "Puerto Madero",
-        "description": "Es resultado de la reconversión de antiguos muelles, es un barrio elegante con arquitectura moderna, donde destaca el Puente de la Mujer, diseñado por Santiago Calatrava y simbolizando una pareja bailando tango.",
+        "description": "Es el resultado de la reconversión de antiguos muelles en un barrio elegante con arquitectura moderna, donde destaca el Puente de la Mujer, diseñado por Santiago Calatrava y simbolizando una pareja bailando tango.",
         "imageSites": "buenosaires4"
       },
       {
         "name": "Cementerio de la Recoleta",
-        "description": "Es más que un lugar de descanso: un museo a cielo abierto con mausoleos de mármol y esculturas notables, donde descansa Eva Perón, y que atrae a millones de visitantes por su historia, arte y arquitectura.",
+        "description": "El Cementerio de la Recoleta es un monumento funerario emblemático de Buenos Aires, reconocido por su valor artístico e histórico. Su entrada principal cuenta con un pórtico formado por cuatro columnas de orden dórico griego, completado durante una reforma en 1881. El frontis exterior e interior están adornados con inscripciones en latín: 'Requiescant in pace' (Descansen en paz) en el exterior, y 'Expectamus Dominum' (Esperamos al Señor) en el interior, simbolizando el diálogo entre los vivos y los muertos.",
         "imageSites": "buenosaires5"
       }
     ]
@@ -64,7 +64,7 @@
     "touristSites": [
       {
         "name": "San Fernando del Valle de Catamarca",
-        "description": "Es la capital y punto de partida ideal para explorar la provincia, destacando por su centro histórico con edificios coloniales, la Catedral Basílica de Nuestra Señora del Valle y eventos culturales como la Fiesta Nacional del Poncho.",
+        "description": "Es la capital y punto de partida ideal para explorar la provincia, destacando por su centro histórico con edificios coloniales, la Catedral Basílica de Nuestra Señora del Valle, y eventos culturales como la Fiesta Nacional del Poncho.",
         "imageSites": "CatamarcaS1"
       },
       {
@@ -74,12 +74,12 @@
       },
       {
         "name": "Fiambalá",
-        "description": "Se destaca por sus aguas termales, consideradas curativas y relajantes, con temperaturas entre 28 y 52 °C, además de ser punto de partida para la Ruta de los Seismiles y actividades astronómicas por su cielo despejado. ",
+        "description": "Se destaca por sus aguas termales, consideradas curativas y relajantes, con temperaturas entre 28 y 52°C, además de ser punto de partida para la Ruta de los Seismiles y actividades astronómicas por su cielo despejado.",
         "imageSites": "CatamarcaS3"
       },
       {
         "name": "Ruinas del Shincal",
-        "description": "Son un sitio arqueológico preincaico de la cultura Quilmes, ubicado en la región sur de la provincia, con calles empedradas y restos de edificios que revelan la sofisticada ingeniería de esta civilización antigua.",
+        "description": "Son un sitio arqueológico incaico, ubicado en la región sur de la provincia, con calles empedradas y restos de edificios que revelan la sofisticada ingeniería de esta civilización antigua.",
         "imageSites": "CatamarcaS4"
       },
       {
@@ -109,27 +109,27 @@
     "touristSites": [
       {
         "name": "Resistencia",
-        "description": "Es la capital de la provincia y un destino imperdible, conocida como la Ciudad de las Esculturas por sus cientos de obras repartidas en el área céntrica.  El Museo de Esculturas en su corazón, con 15 mil metros cuadrados, alberga una amplia colección de arte contemporáneo",
+        "description": "Es la capital de la provincia y un destino imperdible, conocida como la Ciudad de las Esculturas por sus cientos de obras repartidas en el área céntrica. El Museo de Esculturas en su corazón, con 15 mil metros cuadrados, alberga una amplia colección de arte contemporáneo.",
         "imageSites": "ChacoS1"
       },
       {
         "name": "Parque Nacional El Impenetrable",
-        "description": "El más grande del norte argentino, con 130.000 hectáreas, es un referente ecoturístico internacional.  Ofrece senderismo, cabalgatas, avistaje de aves y turismo comunitario en lugares como Misión Nueva Pompeya y Villa Río Bermejito, donde se puede disfrutar de playas cálidas y actividades acuáticas.",
+        "description": "El más grande del norte argentino, con 130.000 hectáreas, es un referente ecoturístico internacional. Ofrece senderismo, cabalgatas, avistaje de aves y turismo comunitario en lugares como Misión Nueva Pompeya y Villa Río Bermejito, donde se puede disfrutar de playas cálidas y actividades acuáticas.",
         "imageSites": "ChacoS2"
       },
       {
         "name": "Isla del Cerrito",
-        "description": "Situada en la confluencia del Río Paraguay con el Paraná, esta isla de 12.000 hectáreas ofrece playas de arena blanca, barrancas, vegetación exuberante y actividades como pesca deportiva, náutica y safaris fotográficos. Posee camping, hosterías y un museo histórico sobre la Guerra de la Triple Alianza. ",
+        "description": "Situada en la confluencia del Río Paraguay con el Paraná, esta isla de 12.000 hectáreas ofrece playas de arena blanca, barrancas, vegetación exuberante y actividades como pesca deportiva, náutica y safaris fotográficos. Posee camping, hosterías y un museo histórico sobre la Guerra de la Triple Alianza.",
         "imageSites": "ChacoS3"
       },
       {
         "name": "Parque Nacional Chaco",
-        "description": "a 120 km de Resistencia, alberga sabanas, lagunas y esteros con especies como quebrachos, tapires, osos hormigueros y más de 340 especies de aves.  Es ideal para acampar, caminar por senderos y disfrutar de la naturaleza en estado puro.",
+        "description": "A 120 km de Resistencia, alberga sabanas, lagunas y esteros con especies como quebrachos, tapires, osos hormigueros y más de 340 especies de aves. Es ideal para acampar, caminar por senderos y disfrutar de la naturaleza en estado puro.",
         "imageSites": "ChacoS4"
       },
       {
         "name": "Reserva Natural Los Chaguares",
-        "description": "a solo 20 km de Resistencia, cuenta con 19 hectáreas de bosque nativo, tres senderos y un Centro de Interpretación donde se aprende sobre la flora y fauna local.  Es un lugar perfecto para una escapada cercana y tranquila.",
+        "description": "A solo 20 km de Resistencia, cuenta con 19 hectáreas de bosque nativo, tres senderos y un Centro de Interpretación donde se aprende sobre la flora y fauna local.  Es un lugar perfecto para una escapada cercana y tranquila.",
         "imageSites": "ChacoS5"
       }
     ]
@@ -154,12 +154,12 @@
     "touristSites": [
       {
         "name": "Puerto Madryn",
-        "description": "Destaca como uno de los destinos más turísticos de Chubut, conocido por su conexión con la historia de la ballena franca austral y por ser punto de partida para visitar la Península Valdés, un sitio natural de importancia mundial.",
+        "description": "Destaca como uno de los destinos más turísticos de Chubut, conocido por su conexión con la historia de la ballena franca austral y como punto de partida para visitar la Península Valdés, un sitio natural de importancia mundial.",
         "imageSites": "ChubutS1"
       },
       {
         "name": "Península Valdés",
-        "description": "Es un destino clave para avistaje de ballenas, pingüinos, lobos marinos y elefantes marinos, y está inscrita como Patrimonio de la Humanidad por la UNESCO. ",
+        "description": "Es un destino clave para avistaje de ballenas, pingüinos, lobos marinos y elefantes marinos, y está inscrita como Patrimonio de la Humanidad por la UNESCO por su extraordinaria biodiversidad.",
         "imageSites": "ChubutS2"
       },
       {
@@ -174,7 +174,7 @@
       },
       {
         "name": "Esquel",
-        "description": "Ciudad de la zona cordillerana, combina una rica herencia galesa con una infraestructura turística sólida, y actúa como puerta de entrada al Parque Nacional Los Alerces y a pueblos como Trevelin, con sus tradiciones y paisajes únicos.",
+        "description": "Ciudad de la zona cordillerana, combina una rica herencia galesa con una infraestructura turística sólida, y actúa como puerta de entrada al Parque Nacional Los Alerces y a localidades cercanas como Trevelin, con sus tradiciones y paisajes únicos.",
         "imageSites": "ChubutS5"
       }
     ]
@@ -199,22 +199,22 @@
     "touristSites": [
       {
         "name": "Córdoba Capital",
-        "description": "Patrimonio de la Humanidad por la UNESCO, destaca por su casco histórico con la Manzana Jesuítica, la Catedral, el Cabildo y la Universidad Nacional. Ideal para recorrer a pie y disfrutar de sus plazas, museos como el Emilio Caraffa y la gastronomía en zonas como Güemes. ",
+        "description": "Destaca por su casco histórico, donde se encuentra la Manzana Jesuítica, declarada Patrimonio de la Humanidad por la UNESCO, junto a la Catedral, el Cabildo y la Universidad Nacional.",
         "imageSites": "cordobaS1"
       },
       {
         "name": "Capilla del Monte",
-        "description": "Conocida por su avenida techada única en el mundo y la leyenda del Cerro Uritorco, considerado estacionamiento de naves espaciales.  Perfecta para trekking, visitar sus cascadas y explorar su atmósfera mística.",
+        "description": "Conocida por su avenida techada única en el mundo y la leyenda del Cerro Uritorco, rodeado de leyendas sobre avistamientos y fenómenos extraterrestres. Perfecta para trekking, visitar sus cascadas y explorar su atmósfera mística.",
         "imageSites": "cordobaS2"
       },
       {
-        "name": "Villa Carlos Paz:",
+        "name": "Villa Carlos Paz",
         "description": "El destino por excelencia en la provincia, con su reloj cucú emblemático, el dique San Roque y una intensa vida nocturna con teatros, casinos y actividades acuáticas. Ideal para entretenimiento y vistas panorámicas.",
         "imageSites": "cordobaS3"
       },
       {
         "name": "Mina Clavero y Nono",
-        "description": "Destinos ideales para actividades al aire libre. Playas naturales en ríos como el Panaholma, actividades como cuatriciclos, parapente y visitas a museos como el Museo Rocsen en Nono.",
+        "description": "Destinos ideales para actividades al aire libre, con playas naturales en ríos como el Panaholma, actividades como cuatriciclos, parapente y visitas a museos como el Museo Rocsen en Nono.",
         "imageSites": "cordobaS4"
       },
       {
@@ -244,7 +244,7 @@
     "touristSites": [
       {
         "name": "Esteros del Iberá",
-        "description": "Uno de los humedales más importantes del mundo, ideal para el ecoturismo, avistamiento de fauna (incluyendo yaguaretés recién nacidos), paseos en lancha y caminatas guiadas.",
+        "description": "Uno de los humedales más importantes del mundo, ideal para el ecoturismo, avistamiento de fauna (incluyendo especies emblemáticas como el yaguareté), paseos en lancha y caminatas guiadas.",
         "imageSites": "corrientesS1"
       },
       {
@@ -254,12 +254,12 @@
       },
       {
         "name": "Puente General Manuel Belgrano",
-        "description": "Uno de los puentes más largos del país, con 2.5 km de extensión, que une Corrientes con Resistencia (Chaco), destacado por su arquitectura y su importancia estratégica.",
+        "description": "Uno de los puentes más largos del país, con 2.5km de extensión, que une Corrientes con Resistencia (Chaco), destacado por su arquitectura y su importancia estratégica.",
         "imageSites": "corrientesS3"
       },
       {
         "name": "Catedral de Corrientes",
-        "description": "Conocida como Iglesia Nuestra Señora del Rosario, es uno de los edificios más antiguos y emblemáticos de la ciudad, con rica arquitectura y valor histórico-religioso.",
+        "description": "Conocida como Iglesia Nuestra Señora del Rosario, es uno de los edificios más antiguos y emblemáticos de la ciudad, con rica arquitectura y gran valor histórico y religioso.",
         "imageSites": "corrientesS4"
       },
       {
@@ -289,17 +289,17 @@
     "touristSites": [
       {
         "name": "Gualeguaychú",
-        "description": "Destaca por su vibrante Carnaval, sus playas junto al río Uruguay y el paseo costanera, además del puente internacional San Martín que conecta con Fray Bentos (Uruguay).",
+        "description": "Destaca por su vibrante Carnaval, sus playas junto al río Uruguay y su costanera, además del puente internacional San Martín que conecta con Fray Bentos (Uruguay).",
         "imageSites": "entreriosS1"
       },
       {
         "name": "Colón",
-        "description": "Es conocida por el Parque Nacional El Palmar, un ícono natural con palmeras yatay de hasta 800 años, y su extensa costanera de 7 km.",
+        "description": "Es conocida por su cercanía al Parque Nacional El Palmar, un ícono natural con palmeras yatay de hasta 800 años, y su extensa costanera de 7 km.",
         "imageSites": "entreriosS2"
       },
       {
         "name": "Concepción del Uruguay",
-        "description": "Alberga el Palacio San José, antigua residencia del General Justo José de Urquiza, y el Monumento al General Urquiza, en un parque con vistas al río. ",
+        "description": "Alberga el Palacio San José, antigua residencia del General Justo José de Urquiza, y el Monumento al General Urquiza, en un parque con vistas al río.",
         "imageSites": "entreriosS3"
       },
       {
@@ -334,12 +334,12 @@
     "touristSites": [
       {
         "name": "Parque Nacional Río Pilcomayo",
-        "description": "Uno de los principales atractivos turísticos de Formosa, este parque nacional alberga más de 300 especies de aves, así como mamíferos y una rica flora. Destacan las áreas de recreación en Laguna Blanca y Esteros Poi, ideales para caminatas, avistamiento de fauna y disfrutar de atardeceres espectaculares.",
+        "description": "Uno de los principales atractivos turísticos de Formosa, este parque nacional alberga más de 300 especies de aves, así como mamíferos y una rica flora. Destacan las áreas de recreación en Laguna Blanca y Esteros Poi, ideales para caminatas, avistamiento de fauna y disfrutar de atardeceres únicos en el Vertedero y el Fortín La Soledad.",
         "imageSites": "formosaS1"
       },
       {
         "name": "Bañado La Estrella",
-        "description": "Este complejo natural, ubicado a 45 km de Las Lomitas, es perfecto para experiencias en contacto con la naturaleza. Permite realizar safaris fotográficos, navegación por sus aguas, visitas guiadas a comunidades aborígenes y criollas, y disfrutar de atardeceres únicos en el Vertedero y el Fortín La Soledad",
+        "description": "Este complejo natural, ubicado a 45 km de Las Lomitas, es perfecto para experiencias en contacto con la naturaleza. Permite realizar safaris fotográficos, navegación por sus aguas, visitas guiadas a comunidades aborígenes y criollas, y disfrutar de atardeceres únicos en el Vertedero y el Fortín La Soledad.",
         "imageSites": "formosaS2"
       },
       {
@@ -349,12 +349,12 @@
       },
       {
         "name": "Campo La Carmela",
-        "description": "Un ranchito encantador a las afueras de Formosa, conocido por su hospitalidad, atardeceres soñados y experiencias rurales como cabalgatas, comidas típicas y convivencia con la naturaleza. Ideal para parejas y familias.",
+        "description": "Un establecimiento encantador a las afueras de Formosa, conocido por su hospitalidad, atardeceres soñados y experiencias rurales como cabalgatas, comidas típicas y convivencia con la naturaleza. Ideal para parejas y familias.",
         "imageSites": "formosaS4"
       },
       {
         "name": "Reserva Natural Formosa",
-        "description": "Ubicada en el sudoeste de la provincia, esta reserva ofrece caminatas guiadas, miradores con vistas panorámicas de los ríos y un ambiente ideal para observar la flora y fauna local, especialmente al amanecer o al atardecer.",
+        "description": "Ubicada en el suroeste de la provincia, esta reserva ofrece caminatas guiadas, miradores con vistas panorámicas de los ríos y un ambiente ideal para observar la flora y fauna local, especialmente al amanecer o al atardecer.",
         "imageSites": "formosaS5"
       }
     ]
@@ -384,12 +384,12 @@
       },
       {
         "name": "Purmamarca",
-        "description": "Conocido por el Cerro de los Siete Colores, una formación geológica que exhibe una paleta de tonos que varían con la hora del día.  Es un lugar ideal para fotografía, caminatas y disfrutar de la artesanía local. ",
+        "description": "Conocido por el Cerro de los Siete Colores, una formación geológica que exhibe una paleta de tonos que varían con la hora del día. Es un lugar ideal para fotografía, caminatas y disfrutar de la artesanía local.",
         "imageSites": "jujuyS2"
       },
       {
         "name": "Tilcara",
-        "description": "Ubicado en el corazón de la Quebrada, es un pueblo encantador con fuerte arraigo cultural. Su principal atracción es el Pucará de Tilcara, una fortaleza preincaica, y el Museo Arqueológico Dr. Eduardo Casanova, que alberga una rica colección de objetos prehispánicos.",
+        "description": "Ubicado en el corazón de la Quebrada, es un pueblo encantador con fuerte arraigo cultural. Su principal atracción es el Pucará de Tilcara, una fortaleza prehispánica de origen preincaico, y el Museo Arqueológico Dr. Eduardo Casanova, que alberga una rica colección de objetos prehispánicos.",
         "imageSites": "jujuyS3"
       },
       {
@@ -429,22 +429,22 @@
       },
       {
         "name": "Laguna Guatraché",
-        "description": " Situada al sureste de la provincia, es un destino clave para turistas. Recibió 3.000 visitantes en la primera quincena de enero de 2022.  Ideal para camping, paseos en bote, observación de aves, fangoterapia y actividades en la laguna salada.",
+        "description": "Situada al sureste de la provincia, Es un destino clave para el turismo regional. Ideal para camping, paseos en bote, observación de aves, fangoterapia y actividades en la laguna salada.",
         "imageSites": "pampaS2"
       },
       {
         "name": "Parque Nacional Lihué Calel",
-        "description": "El único parque nacional de La Pampa, ubicado a 120 km de General Acha. Ofrece senderos para trekking, avistaje de guanacos, pumas, zorros y pinturas rupestres del valle de las Pinturas (1.500 años de antigüedad). Ideal en primavera y otoño.",
+        "description": "El único parque nacional de La Pampa, ubicado a 120 km de General Acha. Ofrece senderos para trekking, avistaje de guanacos, pumas, zorros y pinturas rupestres del Valle de las Pinturas (1.500 años de antigüedad). Ideal en primavera y otoño.",
         "imageSites": "pampaS3"
       },
       {
         "name": "Termas de Bernardo Larroudé",
-        "description": "Ubicadas en la RN188, son un referente del turismo termal. Ofrecen piscinas de agua termal, masajes, fangoterapia, cabañas, restaurante y actividades recreativas. Recibieron alrededor de 1.000 visitantes en una quincena de enero.",
+        "description": "Ubicadas en la RN188, son un referente del turismo termal. Ofrecen piscinas de agua termal, masajes, fangoterapia, cabañas, restaurante y actividades recreativas.",
         "imageSites": "pampaS4"
       },
       {
         "name": "Casa de Piedra (Villa Turística)",
-        "description": "Destacada por su ocupación hotelera al 100%, esta localidad ofrece playas, actividades acuáticas y el Mercado Regional Pampeano.  Atrae turistas de todo el país, especialmente por su enoturismo y productos artesanales. ",
+        "description": "Destacada por su desarrollo turístico, esta localidad ofrece playas, actividades acuáticas y el Mercado Regional Pampeano. Atrae turistas de todo el país, especialmente por su enoturismo y productos artesanales.",
         "imageSites": "pampaS5"
       }
     ]
@@ -474,7 +474,7 @@
       },
       {
         "name": "Parque Nacional Talampaya",
-        "description": "Patrimonio Mundial de la UNESCO, este parque abarca 215 mil hectáreas y alberga formaciones rocosas impresionantes como el Cañón del Talampaya, la Ciudad Perdida y los Chañares. Ideal para trekking, paseos en 4x4 y recorridos guiados, combina geología, historia prehispánica y riqueza paleontológica.",
+        "description": "Patrimonio Mundial de la UNESCO, este parque abarca 215.000 hectáreas y alberga formaciones rocosas impresionantes como el Cañón del Talampaya, la Ciudad Perdida y los Chañares. Ideal para trekking, paseos en 4x4 y recorridos guiados, combina geología, historia prehispánica y riqueza paleontológica.",
         "imageSites": "lariojaS2"
       },
       {
@@ -484,12 +484,12 @@
       },
       {
         "name": "Reserva Natural y Cultural Los Colorados",
-        "description": "Ubicada en un entorno de formaciones rocosas rojizas, esta reserva combina naturaleza y historia. Sus paredes de piedra albergan arte rupestre ancestral y ofrecen caminatas por senderos que revelan miles de años de presencia humana en el área. ",
+        "description": "Ubicada en un entorno de formaciones rocosas rojizas, esta reserva combina naturaleza y historia. Sus paredes de piedra albergan arte rupestre ancestral y ofrecen caminatas por senderos que revelan miles de años de presencia humana en el área.",
         "imageSites": "lariojaS4"
       },
       {
-        "name": "Casa de Piedra (Villa Turística)",
-        "description": "El único parque del mundo donde se descubrieron nidos de huevos de dinosaurios (65 a 95 millones de años), este sitio ofrece un recorrido educativo con réplicas a escala real de 10 especies, un centro de interpretación y actividades para niños y adultos. ",
+        "name": "Parque de Dinosaurios Sanagasta",
+        "description": "El único parque del mundo donde se descubrieron nidos de huevos de dinosaurios (65 a 95 millones de años), este sitio ofrece un recorrido educativo con réplicas a escala real de 10 especies, un centro de interpretación y actividades para niños y adultos.",
         "imageSites": "lariojaS5"
       }
     ]
@@ -514,7 +514,7 @@
     "touristSites": [
       {
         "name": "Mendoza Capital",
-        "description": "La ciudad es un punto clave por sus plazas, como España, Italia e Independencia, y sus atractivos como el Parque General San Martín, el Cerro de la Gloria y la Calle Arístides, con vistas panorámicas y una atmósfera arbolada única.",
+        "description": "La ciudad se distingue por su diseño urbano adaptado a un clima semidesértico, basado en un histórico sistema de acequias y arbolado público que crea un verdadero oasis urbano. Plazas como Independencia, España e Italia, junto al Parque General San Martín, el Cerro de la Gloria y la Calle Arístides, forman parte de una ciudad planificada tras el terremoto de 1861.",
         "imageSites": "MendozaS1"
       },
       {
@@ -529,7 +529,7 @@
       },
       {
         "name": "Las Leñas (Malargüe)",
-        "description": "El complejo invernal más importante de Argentina, con pistas de esquí y snowboard, una de las más largas del mundo y actividades de verano como trekking, 4x4 y mountain bike. Abierto todo el año gracias a nieve artificial.",
+        "description": "El complejo invernal más importante de Argentina, con pistas de esquí y snowboard, una de las más largas de Sudamérica y actividades de verano como trekking, 4x4 y mountain bike. Abierto todo el año gracias a nieve artificial.",
         "imageSites": "MendozaS4"
       },
       {
@@ -559,27 +559,27 @@
     "touristSites": [
       {
         "name": "Cataratas del Iguazú",
-        "description": "El atractivo turístico más emblemático de Misiones, ubicado en el Parque Nacional Iguazú.  Con más de 275 saltos de agua, ofrece recorridos como el Circuito Superior, el Circuito Inferior y la Garganta del Diablo, donde se puede sentir la fuerza del río desde cerca. ",
+        "description": "El atractivo turístico más emblemático de Misiones, ubicado en el Parque Nacional Iguazú. Con más de 275 saltos de agua, ofrece recorridos como el Circuito Superior, el Circuito Inferior y la Garganta del Diablo, donde se puede sentir la fuerza del río desde cerca. ",
         "imageSites": "misionesS1"
       },
       {
         "name": "Ruinas Jesuíticas de San Ignacio Miní",
-        "description": "Declaradas Patrimonio de la Humanidad por la UNESCO, estas ruinas son parte de las Reducciones Jesuíticas Guarani.  Su arquitectura en piedra roja y el espectáculo de luces y sonido sobre la historia de los guaraníes y jesuitas hacen de este lugar una experiencia inolvidable.",
+        "description": "Declaradas Patrimonio de la Humanidad por la UNESCO, estas ruinas son parte de las Reducciones Jesuíticas Guaraníes. Su arquitectura en piedra roja y el espectáculo de luces y sonido sobre la historia de los guaraníes y los jesuitas hacen de este lugar una experiencia inolvidable.",
         "imageSites": "misionesS2"
       },
       {
         "name": "Saltos del Moconá",
-        "description": "Ubicados en el Parque Provincial Moconá, estos saltos son únicos por correr paralelos al río Uruguay durante más de 3 km.  Ideal para paseos en lancha, senderismo y avistaje de aves, con especies como tucanes y yaguaretés.",
+        "description": "Ubicados en el Parque Provincial Moconá, estos saltos son únicos por correr paralelos al río Uruguay durante más de 3 km. Ideal para paseos en lancha, senderismo y avistaje de aves, con especies como tucanes y yaguaretés.",
         "imageSites": "misionesS3"
       },
       {
         "name": "Minas de Wanda",
-        "description": "A pocos kilómetros de Puerto Iguazú, este complejo de minas de piedras semipreciosas permite explorar túneles de extracción de amatistas, cuarzos y topacios, además de visitar talleres artesanales donde se crean joyas únicas. ",
+        "description": "A pocos kilómetros de Puerto Iguazú, este complejo de minas de piedras semipreciosas permite explorar túneles de extracción de amatistas, cuarzos y topacios, además de visitar talleres artesanales donde se elaboran joyas únicas.",
         "imageSites": "misionesS4"
       },
       {
         "name": "Parque Temático de la Cruz (Aldea Guaraní) ",
-        "description": "Situado en el parque Cerro Santa Ana (cerca de Posadas), este parque recrea una trampa tradicional guaraní y ofrece una inmersión en la cultura indígena, con comida regional como el tereré, bebidas tradicionales y estructuras de madera hechas con especies nativas.",
+        "description": "Ubicado en el Cerro Santa Ana, este parque temático combina espiritualidad, cultura y naturaleza. Cuenta con una cruz de gran altura, senderos, miradores y espacios que reflejan la influencia guaraní y cristiana, además de propuestas gastronómicas regionales y construcciones en madera con especies nativas.",
         "imageSites": "misionesS5"
       }
     ]
@@ -603,28 +603,28 @@
     "size": "94.078 km²",
     "touristSites": [
       {
-        "name": "Paseo de la Costa de Neuquén",
-        "description": "Un hermoso paseo costero junto al río Limay, ideal para caminar, trotar o andar en bicicleta, con vistas panorámicas y acceso a la península de Hiroki, zona protegida con la confluencia de los ríos Limay y Negro.",
+        "name": "Ruta de los 7 Lagos",
+        "description": "Es un tramo escénico de la Ruta Nacional 40 en la provincia de Neuquén, Argentina, que conecta San Martín de los Andes con Villa La Angostura, a lo largo de aproximadamente 110 kilómetros. Este recorrido atraviesa el Parque Nacional Lanín y el Parque Nacional Nahuel Huapi, con vistas impresionantes de lagos de montaña, bosques nativos, cerros nevados y cascadas.",
         "imageSites": "neuquenS1"
       },
       {
-        "name": "Plaza de las Banderas",
-        "description": "Monumento emblemático ubicado en el centro de la ciudad capital, con una arquitectura imponente y vistas panorámicas de la ciudad, especialmente hermosas de noche.",
+        "name": "Salto del Agrio",
+        "description": "Es una impresionante cascada ubicada en la provincia de Neuquén, a solo 18 kilómetros de Caviahue y a unos 11 kilómetros de Copahue, dentro del Parque Provincial Copahue. Es uno de los destinos turísticos más espectaculares de la Patagonia argentina, con una caída de agua de aproximadamente 45 metros de altura, rodeada por un imponente cañón formado por antiguas coladas de lava y roca basáltica. Sus paredes presentan vibrantes tonos ocre, anaranjados, rojos y amarillos, producto de minerales como hierro y azufre en el agua del río Agrio.",
         "imageSites": "neuquenS2"
       },
       {
-        "name": "Iglesia Catedral Neuquén",
-        "description": "Un ícono arquitectónico y religioso de la provincia, conocida por su hermosa fachada y su importancia histórica. Su ubicación central la convierte en un punto obligado para visitar en el recorrido por la capital.",
+        "name": "Volcán Batea Mahuida",
+        "description": "Antiguo volcán extinto ubicado en el Departamento Aluminé, en la frontera entre Argentina y Chile. Su nombre proviene del mapudungun y hace referencia a su forma de meseta. En su cráter alberga una laguna de aguas verdosas y turquesas, rodeada de bosques de araucarias milenarias. Desde su cumbre se obtienen vistas panorámicas de volcanes andinos y lagos de la región. Es un sitio emblemático para el turismo de naturaleza y actividades invernales gestionadas por la comunidad mapuche Puel.",
         "imageSites": "neuquenS3"
       },
       {
-        "name": "Capilla de María Auxiliadora del Paimun",
-        "description": "Localizada en un entorno natural privilegiado, con el Volcán Lanín como fondo, esta capilla es un destino obligado para quienes buscan tranquilidad y belleza natural. Su ubicación en la ruta hacia el Lago Huechulafquen la convierte en un punto de parada ideal.",
+        "name": "Parque Nacional Los Arrayanes",
+        "description": "El Parque Nacional Los Arrayanes, creado en 1971, protege más de 1.700 hectáreas de bosques patagónicos en la península de Quetrihue, en Neuquén. Es famoso por su bosque de arrayanes centenarios, cuya corteza color canela crea un paisaje único y atmosférico. Ofrece senderos bien señalizados, ideales para trekking, como la caminata de 22 km (ida y vuelta), y miradores con vistas espectaculares al lago Nahuel Huapi. También se puede acceder en catamarán desde Villa La Angostura, con recorridas guiadas. Los visitantes destacan la belleza del lugar, la calidad de los senderos y la experiencia natural inmersiva.",
         "imageSites": "neuquenS4"
       },
       {
-        "name": "Monumento a San Martín",
-        "description": "Ubicado en el centro de la ciudad, este monumento es un punto de encuentro histórico y visual. Su diseño y ubicación lo convierten en un lugar icónico que invita a la contemplación y a la fotografía. ",
+        "name": "Cerro Chapelco",
+        "description": "Cerro Chapelco es una reconocida estación de esquí ubicada en la provincia del Neuquén, en el suroeste de Argentina, cerca de San Martín de los Andes. Emplazada en las montañas de los Andes y rodeada de bosques de lenga y paisajes volcánicos, ofrece una experiencia de esquí y snowboard de clase mundial con terrenos para todos los niveles. Reconocida como la Mejor Estación de Esquí de Argentina durante varios años consecutivos por los World Ski Awards, cuenta con modernos telesillas, un sólido sistema de producción de nieve artificial y una vibrante cultura de deportes de invierno. La estación también ofrece actividades familiares, restaurantes con vistas panorámicas y acceso a formaciones naturales impresionantes, todo dentro del Parque Nacional Lanín.",
         "imageSites": "neuquenS5"
       }
     ]
@@ -654,7 +654,7 @@
       },
       {
         "name": "Parque Nacional Nahuel Huapi",
-        "description": "El primer parque nacional de Argentina, con más de 700,000 hectáreas de bosques, lagos y montañas. Ofrece rutas de trekking, pesca, kayak y campamentos, con accesos a sitios como Isla Victoria, el Bosque de Arrayanes y el Cerro Tronador.",
+        "description": "El primer parque nacional de Argentina, con más de 700.000 hectáreas de bosques, lagos y montañas. Ofrece rutas de trekking, pesca, kayak y campamentos, con accesos a sitios como Isla Victoria, el Bosque de Arrayanes y el Cerro Tronador.",
         "imageSites": "rionegroS2"
       },
       {
@@ -668,7 +668,7 @@
         "imageSites": "rionegroS4"
       },
       {
-        "name": "Isla Victoria y Bosque de Arrayanes",
+        "name": "Isla Victoria y navegaciones por el Nahuel Huapi",
         "description": "Sitios naturales accesibles desde Bariloche, donde se puede navegar por el lago y caminar entre árboles con corteza canela. Un destino perfecto para quienes buscan tranquilidad y belleza natural.",
         "imageSites": "rionegroS5"
       }
@@ -704,12 +704,12 @@
       },
       {
         "name": "Tren a las Nubes",
-        "description": "Una experiencia única que recorre más de 600 kilómetros desde Salta hasta San Antonio de los Cobres, alcanzando los 4.220 metros sobre el nivel del mar.  El recorrido incluye el icónico Viaducto La Polvorilla, y es considerado una de las aventuras ferroviarias más emblemáticas del mundo.",
+        "description": "Una experiencia ferroviaria única que parte desde la ciudad de Salta y asciende hasta la Puna, alcanzando los 4.220 metros sobre el nivel del mar. El recorrido incluye el icónico Viaducto La Polvorilla y atraviesa paisajes andinos de gran valor histórico y culturaly es considerado una de las aventuras ferroviarias más emblemáticas del mundo.",
         "imageSites": "saltaS3"
       },
       {
         "name": "Salinas Grandes",
-        "description": "El salar más grande de Argentina, con más de 100 km² de superficie blanca. Su paisaje surrealista, con cielos azules contrastando con el salar y las montañas andinas, lo convierte en un destino fotográfico inigualable.  Ideal para caminatas y fotografías.",
+        "description": "Un extenso salar compartido entre las provincias de Salta y Jujuy, ubicado en la Puna argentina. Su paisaje blanco infinito, combinado con el cielo y las montañas andinas, crea un escenario visual único, ideal para caminatas y fotografía.",
         "imageSites": "saltaS4"
       },
       {
@@ -739,7 +739,7 @@
     "touristSites": [
       {
         "name": "Parque Provincial Ischigualasto (Valle de la Luna)",
-        "description": "Conocido como el 'Valle de la Luna', este parque es uno de los destinos más emblemáticos de San Juan, Declarado Patrimonio de la Humanidad junto al Parque Nacional Talampaya, ofrece un paisaje rocoso único con formaciones geológicas impresionantes, huellas de dinosaurios y un circuito de 42 km para recorrer con guía. Ideal para caminatas, fotografía y actividades nocturnas bajo la luna llena. ",
+        "description": "Conocido como el 'Valle de la Luna', este parque es uno de los destinos más emblemáticos de San Juan, declarado Patrimonio de la Humanidad junto al Parque Nacional Talampaya, ofrece un paisaje rocoso único con formaciones geológicas impresionantes, estos fósiles y un circuito de 42 km para recorrer con guía. Ideal para caminatas, fotografía y actividades nocturnas bajo la luna llena. ",
         "imageSites": "sanjuanS1"
       },
       {
@@ -749,17 +749,17 @@
       },
       {
         "name": "Ruta del Vino",
-        "description": "San Juan es la segunda provincia productora de vino de Argentina.  La ruta incluye visitas a bodegas como El Milagro, Bodegas Callia, Entre Tapias y Finca Sierras Azules, con degustaciones de malbec, syrah, torrontés y espumantes.  Se extiende por los valles de Zonda, Ullum y Tulum.",
+        "description": "San Juan es la segunda provincia productora de vino de Argentina, reconocida por su clima seco y la calidad de sus syrah y malbec. La Ruta del Vino recorre bodegas de los valles de Zonda, Ullum y Tulum, ofreciendo degustaciones, visitas guiadas y experiencias enoturísticas.",
         "imageSites": "sanjuanS3"
       },
       {
         "name": "Parque Nacional El Leoncito",
-        "description": "Conocido por tener uno de los cielos más limpios del mundo, este parque alberga el Complejo Astronómico El Leoncito (CASLEO), el telescopio más grande de Argentina.  Ideal para observar estrellas, planetas y satélites. También ofrece senderos, miradores y biodiversidad como guanacos, suris y pumas.",
+        "description": "Conocido por tener uno de los cielos más limpios del mundo, este parque alberga el Complejo Astronómico El Leoncito (CASLEO), uno de los complejos astronómicos más importantes del país. Ideal para observar estrellas, planetas y satélites. También ofrece senderos, miradores y biodiversidad como guanacos, suris y pumas.",
         "imageSites": "sanjuanS4"
       },
       {
         "name": "Paso de Agua Negra",
-        "description": "El paso fronterizo más alto entre Argentina y Chile (4.760 msnm), ideal para quienes buscan experiencias de aventura. Conocido por sus paisajes de montañas multicolores, glaciares y rutas de ripio.  Requiere vehículo adecuado y se recomienda hacerlo en temporada seca (octubre a abril).",
+        "description": "El paso fronterizo más alto entre Argentina y Chile (4.780 msnm), ideal para quienes buscan experiencias de aventura. Conocido por sus paisajes de montañas multicolores, glaciares y rutas de ripio.  Requiere vehículo adecuado y se recomienda hacerlo en temporada seca (octubre a abril).",
         "imageSites": "sanjuanS5"
       }
     ]
@@ -789,22 +789,22 @@
       },
       {
         "name": "Potrero de los Funes",
-        "description": "A solo 20 km de la capital, alberga el dique más antiguo de la provincia y ofrece deportes náuticos, pesca, mountain bike y el emblemático Salto de la Moneda.  Su hotel flotante y autódromo internacional la convierten en un destino único. ",
+        "description": "A solo 20 km de la capital, alberga uno de los diques más emblemáticos de la provincia y ofrece deportes náuticos, pesca, mountain bike y el emblemático Salto de la Moneda. Su hotel flotante y autódromo internacional la convierten en un destino único. ",
         "imageSites": "sanluisS2"
       },
       {
         "name": "Parque Nacional Sierra de Las Quijadas",
-        "description": "Ubicado a 250 km de Merlo, es un reserva natural con formaciones geológicas rojizas y valiosos yacimientos paleontológicos de dinosaurios.  Ideal para senderismo guiado, como el recorrido por las Huellas del Pasado.",
+        "description": "Está Ubicado a unos 120 km de la ciudad de San Luis, es una reserva natural con formaciones geológicas rojizas y valiosos yacimientos paleontológicos. Ideal para senderismo guiado, como el recorrido por las Huellas del Pasado.",
         "imageSites": "sanluisS3"
       },
       {
         "name": "La Carolina",
-        "description": "En las sierras al norte de la capital, es un pueblo minero histórico con la capilla Nuestra Señora del Carmen, la casa natal del educador Juan Crisóstomo Lafinur y el museo local.  Perfecta para caminatas y turismo arqueológico.",
+        "description": "En las sierras al norte de la capital, es un pueblo minero histórico con la capilla Nuestra Señora del Carmen, la casa natal del educador Juan Crisóstomo Lafinur y el museo local. Perfecta para caminatas y turismo arqueológico.",
         "imageSites": "sanluisS4"
       },
       {
         "name": "San Luis capital",
-        "description": "Ofrece una rica oferta cultural y arquitectónica: la Plaza Pringles, la Catedral, el Museo Dora Ochoa de Masramón, el Muhsal (Museo Interactivo de Historia) y el Hito del Bicentenario.  Ideal para recorrer a pie y descubrir la historia provincial.",
+        "description": "Ofrece una rica oferta cultural y arquitectónica: la Plaza Pringles, la Catedral, el Museo Dora Ochoa de Masramón, el MUHSAL – Museo Histórico de San Luis y el Hito del Bicentenario.  Ideal para recorrer a pie y descubrir la historia provincial.",
         "imageSites": "sanluisS5"
       }
     ]
@@ -829,27 +829,27 @@
     "touristSites": [
       {
         "name": "Parque Nacional Los Glaciares",
-        "description": "Declarado Patrimonio de la Humanidad por la UNESCO, este parque alberga el famoso Glaciar Perito Moreno, uno de los pocos glaciares del mundo que sigue avanzando.  Es ideal para excursiones como el Minitrekking sobre el hielo y navegación entre témpanos.",
+        "description": "Declarado Patrimonio de la Humanidad por la UNESCO, este parque alberga el famoso Glaciar Perito Moreno, uno de los glaciares más dinámicos del mundo. Es ideal para excursiones como el Minitrekking sobre el hielo y navegación entre témpanos.",
         "imageSites": "santacruzS1"
       },
       {
         "name": "El Chaltén",
-        "description": "Pequeña villa turística en el corazón del Parque Nacional Los Glaciares, conocida como la Capital Argentina del Trekking.  Desde aquí se accede a rutas emblemáticas para escalar el Monte Fitz Roy y el Glaciar Torre.",
+        "description": "Pequeña villa turística en el corazón del Parque Nacional Los Glaciares, conocida como la Capital Argentina del Trekking. Desde aquí se accede a rutas emblemáticas para escalar el Monte Fitz Roy y el Glaciar Torre.",
         "imageSites": "santacruzS2"
       },
       {
         "name": "El Calafate",
-        "description": "Ciudad ubicada a orillas del Lago Argentino, es la puerta de entrada principal al Parque Nacional Los Glaciares.  Ideal para visitar el Glaciar Perito Moreno y disfrutar de paisajes patagónicos únicos.",
+        "description": "Ciudad ubicada a orillas del Lago Argentino, es la puerta de entrada principal al Parque Nacional Los Glaciares. Ideal para visitar el Glaciar Perito Moreno y disfrutar de paisajes patagónicos únicos.",
         "imageSites": "santacruzS3"
       },
       {
         "name": "Cueva de las Manos",
-        "description": "Sitio Patrimonio Cultural de la Humanidad por la UNESCO, ubicado en la Ruta 40.  Contiene más de 800 pinturas rupestres realizadas hace unos 14 mil años, representando escenas de caza y figuras humanas.",
+        "description": "Sitio Patrimonio Cultural de la Humanidad por la UNESCO, ubicado en la Ruta 40 ubicada en el valle del rio Pinturas. Contiene más de 800 pinturas rupestres realizadas hace unos 14 mil años, representando escenas de caza y figuras humanas.",
         "imageSites": "santacruzS4"
       },
       {
         "name": "Parque Nacional Perito Moreno",
-        "description": "El único parque nacional que protege la estepa patagónica, con microclimas, fauna autóctona como pumas, guanacos y cóndores, y paisajes desérticos que contrastan con los glaciares.",
+        "description": "Uno de los parques nacionales que protege la estepa patagónica, con microclimas, fauna autóctona como pumas, guanacos y cóndores, y paisajes abiertos que contrastan con lagos y montañas.",
         "imageSites": "santacruzS5"
       }
     ]
@@ -873,28 +873,28 @@
     "size": "133.007 km²",
     "touristSites": [
       {
-        "name": "Puente Colgante (Ingeniero Marcial Candioti)",
-        "description": "Un ícono de la ciudad que conecta la costanera este con el centro, conocido por su iluminación nocturna y vistas al río Paraná. Es uno de los puntos más fotografiados de Santa Fe.",
+        "name": "Monumento Historico Nacional a la Bandera",
+        "description": "El Monumento Histórico Nacional a la Bandera es uno de los símbolos más importantes de la ciudad de Rosario. Se encuentra en el Parque Nacional a la Bandera, en el lugar donde el general Manuel Belgrano enarboló por primera vez la Bandera Argentina, a orillas del río Paraná. En su estructura central se destaca el escudo nacional argentino, acompañado por los escudos de las 14 provincias que conformaban el país en 1812.",
         "imageSites": "santafeS1"
       },
       {
         "name": "Convento San Francisco",
-        "description": "Un lugar histórico y espiritualmente significativo, con un templo de gran belleza arquitectónica y un ambiente de paz que lo convierte en imprescindible para visitar.",
+        "description": "Fundado en el siglo XVII, es uno de los edificios más antiguos de la ciudad y testigo del período colonial. Su templo y claustros reflejan la importancia religiosa, cultural y educativa que tuvo la orden franciscana en la historia santafesina.",
         "imageSites": "santafeS2"
       },
       {
         "name": "Plaza 25 de Mayo",
-        "description": "La plaza principal de la ciudad, ubicada frente a la Casa de Gobierno, con una rica historia y un entorno cuidado, ideal para pasear y disfrutar de la arquitectura colonial.",
+        "description": "Centro histórico y político de la ciudad, rodeada por edificios emblemáticos como la Casa de Gobierno y la Catedral. Ha sido escenario de actos cívicos, celebraciones y acontecimientos clave desde la época colonial hasta la actualidad.",
         "imageSites": "santafeS3"
       },
       {
         "name": "Basílica de Nuestra Señora de Guadalupe",
-        "description": "Conocida por su majestuosidad y arquitectura imponente, es uno de los lugares religiosos más visitados y admirados de la provincia.",
+        "description": "Conocida por su majestuosidad y arquitectura imponente, es uno de los principales centros de devoción religiosa de la provincia. Cada año recibe miles de fieles y peregrinos, convirtiéndose en un símbolo espiritual y cultural de Santa Fe.",
         "imageSites": "santafeS4"
       },
       {
-        "name": "Estadio Brigadier General Estanislao López",
-        "description": "El estadio más emblemático de la ciudad, con una historia ligada al fútbol argentino y un ambiente lleno de pasión y tradición.",
+        "name": "Teatro El Círculo",
+        "description": "Ubicado en la ciudad de Rosario, es un teatro inaugurado en 1904 que se destaca por su arquitectura y relevancia cultural. En su escenario se presentó el tenor Enrico Caruso y, en 2004, fue sede del Congreso Internacional de la Lengua Española. En su subsuelo, conocido como las “catacumbas”, funciona un museo de esculturas, lo que lo convierte en un espacio único de valor histórico y artístico",
         "imageSites": "santafeS5"
       }
     ]
@@ -919,27 +919,27 @@
     "touristSites": [
       {
         "name": "Plaza Libertad",
-        "description": "El corazón histórico de la ciudad, rodeada de edificios coloniales, la Catedral Basílica y monumentos que conmemoran hechos importantes. Ideal para pasear, disfrutar de cafés y vivir la vida urbana santiagueña.",
+        "description": "El corazón histórico de la ciudad, rodeada de edificios emblemáticos, la Catedral Basílica y monumentos que conmemoran hechos clave de la historia provincial. Ideal para pasear, disfrutar de cafés y vivir la vida urbana santiagueña.",
         "imageSites": "santiagodelesteroS1"
       },
       {
         "name": "Catedral Basílica de Santiago del Estero",
-        "description": "Una de las estructuras más emblemáticas, construida en el siglo XVI con estilo colonial y barroco. Alberga el Museo de Arte Sacro San Francisco Solano y una cripta con restos de los primeros pobladores.",
+        "description": "Una de las iglesias más emblemáticas y antiguas de la Argentina. Su actual edificio combina estilos colonial y barroco, y forma parte del centro histórico de la ciudad. Alberga el Museo de Arte Sacro San Francisco Solano y una cripta vinculada a los orígenes de la ciudad, considerada la más antigua del país.",
         "imageSites": "santiagodelesteroS2"
       },
       {
         "name": "Termas de Río Hondo",
-        "description": "Ciudad-SPA a 60 km de la capital, famosa por sus aguas termales con propiedades curativas. Perfecta para relajarse, con opciones de spa, gastronomía local y actividades acuáticas.",
+        "description": "Ciudad turística ubicada a 60 km de la capital, famosa por sus aguas termales con propiedades terapéuticas. Es uno de los destinos termales más importantes del país, ideal para el descanso, con complejos de spa, gastronomía regional y actividades recreativas.",
         "imageSites": "santiagodelesteroS3"
       },
       {
         "name": "Parque Nacional Copo",
-        "description": "Reserva natural de 100.000 hectáreas en la región del Chaco Seco, ideal para ecoturismo, avistaje de fauna (como yaguaretés y tatú carretas) y senderos interpretativos.",
+        "description": "Reserva natural de más de 100.000 hectáreas ubicada en la región del Chaco Seco. Protege uno de los últimos bosques de quebracho del país y es ideal para el ecoturismo, el avistaje de fauna autóctona —como tatú carreta, pecaríes y, en forma excepcional, yaguaretés— y recorridos por senderos interpretativos.",
         "imageSites": "santiagodelesteroS4"
       },
       {
         "name": "Dique Frontal",
-        "description": " Embalse impresionante a pocos kilómetros de la ciudad, ideal para paseos, picnics, observación de aves y disfrutar de vistas panorámicas. También es un punto clave para la pesca deportiva.",
+        "description": "Embalse ubicado en las cercanías de Termas de Río Hondo, ideal para paseos al aire libre, picnics, observación de aves y vistas panorámicas. Es también un punto destacado para la pesca deportiva y actividades recreativas.",
         "imageSites": "santiagodelesteroS5"
       }
     ]
@@ -964,17 +964,17 @@
     "touristSites": [
       {
         "name": "Ushuaia",
-        "description": "Considerada la ciudad más austral del mundo, Ushuaia es el epicentro turístico de la provincia. Ofrece un paisaje único con montañas, mar, glaciares y bosques. Destacan actividades como el trekking al Glaciar Vinciguerra y la Laguna Esmeralda, esquiar en el Cerro Castor, recorrer el Canal Beagle y visitar el Museo del Fin del Mundo, construido en 1903, que exhibe testimonios de culturas indígenas, naufragios y la historia de la ciudad.",
+        "description": "Considerada la ciudad más austral del mundo, Ushuaia es el principal centro turístico y cultural de la provincia. Ofrece un entorno único donde se combinan montañas, mar, glaciares y bosques. Entre sus atractivos se destacan las navegaciones por el Canal Beagle, el esquí en el Cerro Castor y museos como el Museo del Fin del Mundo, que preserva testimonios de las culturas indígenas, los primeros pobladores, los naufragios y la historia local.",
         "imageSites": "tierradelfuegoS1"
       },
       {
         "name": "Parque Nacional Tierra del Fuego",
-        "description": "Creado en 1960, este parque abarca 63 mil hectáreas y alberga bosques de lenga y guindo. Es ideal para senderismo, observación de fauna y exploración de rutas como la Laguna Esmeralda. El acceso se facilita mediante el Tren del Fin del Mundo, un ferrocarril a vapor con vagones decorados que permite recorrer zonas inaccesibles del parque. ",
+        "description": "Creado en 1960, este parque protege más de 63 mil hectáreas de bosques subantárticos de lenga y guindo, junto a costas marinas y ríos. Es ideal para senderismo, observación de fauna y recorridos por senderos como la Senda Costera. El acceso puede realizarse mediante el Tren del Fin del Mundo, que recorre parte del parque y permite apreciar su paisaje natural.",
         "imageSites": "tierradelfuegoS2"
       },
       {
         "name": "Tren del Fin del Mundo",
-        "description": "Un icónico tren a vapor que conecta Ushuaia con el Parque Nacional Tierra del Fuego. Ofrece vistas panorámicas del paisaje patagónico, con paradas en zonas inaccesibles por vía terrestre. Es una experiencia imperdible para los amantes del ferrocarril y la naturaleza. ",
+        "description": "Un icónico tren a vapor que conecta Ushuaia con el Parque Nacional Tierra del Fuego. Ofrece vistas panorámicas del paisaje patagónico, con paradas en zonas inaccesibles por vía terrestre. Durante el recorrido se narran historias vinculadas al antiguo presidio, los primeros pobladores y acontecimientos clave de la historia fueguina, convirtiéndolo en una experiencia cultural y natural única.",
         "imageSites": "tierradelfuegoS3"
       },
       {
@@ -984,7 +984,7 @@
       },
       {
         "name": "Faro del Fin del Mundo (San Juan de Salvamento)",
-        "description": "Ubicado en la Isla de los Estados, es el faro más antiguo de Argentina y el primero construido en aguas naturales. Aunque no es fácil de acceder, su historia y ubicación estratégica lo convierten en un destino simbólico para quienes buscan el \"fin del mundo\". También se recomienda visitar el Faro Les Éclaireurs, que guía a los navegantes hacia la Bahía de Ushuaia y ofrece vistas espectaculares durante el recorrido desde la ciudad.",
+        "description": "Ubicado en la Isla de los Estados, es el faro oceánico más antiguo de Argentina y un símbolo histórico de la navegación austral. Su difícil acceso lo convierte en un destino mítico. En las cercanías de Ushuaia también se encuentra el Faro Les Éclaireurs, visible durante las navegaciones por el Canal Beagle y frecuentemente asociado al imaginario del \"fin del mundo\"",
         "imageSites": "tierradelfuegoS5"
       }
     ]
@@ -1009,27 +1009,27 @@
     "touristSites": [
       {
         "name": "San Miguel de Tucumán",
-        "description": " La capital de la provincia es el epicentro histórico y cultural de Tucumán, donde se declaró la Independencia de Argentina el 9 de julio de 1816. Destacan la Casa Histórica de Tucumán, con el Salón de la Jura donde se firmó el Acta de Independencia, la Plaza Independencia, la Catedral de San Miguel (una de las más antiguas del país) y la Basílica Menor de la Merced, Monumento Histórico Nacional. ",
+        "description": "La capital de la provincia es el epicentro histórico y cultural de Tucumán, donde se declaró la Independencia de Argentina el 9 de julio de 1816. Destacan la Casa Histórica de Tucumán, con el Salón de la Jura donde se firmó el Acta de Independencia, la Plaza Independencia, la Catedral de San Miguel —una de las más antiguas del país— y la Basílica Menor de La Merced, Monumento Histórico Nacional.",
         "imageSites": "tucumanS1"
       },
       {
         "name": "Tafí del Valle",
-        "description": "Situada a 107 km de la capital, es el centro turístico más importante de la provincia. Ofrece paisajes montañosos, un microclima ideal y actividades como cabalgatas, senderismo, kayak en el Dique La Angostura y visitas a la Cascada Los Alisos en el Cerro Muñoz.  No se puede dejar de ver el Cristo Redentor en la Quebradita y el Museo y Capilla Jesuítica de la Banda.",
+        "description": "Situada a 107 km de la capital, es el principal centro turístico de la provincia. Ofrece paisajes montañosos, un microclima ideal y actividades como cabalgatas, senderismo y kayak en el Dique La Angostura. Se destacan la Cascada Los Alisos en el Cerro Muñoz, el Cristo Redentor en La Quebradita y el Museo y Capilla Jesuítica de La Banda.",
         "imageSites": "tucumanS2"
       },
       {
         "name": "Ruinas de Quilmes",
-        "description": "Ubicadas en los Valles Calchaquíes, son uno de los sitios arqueológicos más grandes del país. Fueron la capital de un antiguo pueblo calchaquí que floreció entre los siglos IX y XVII. Se puede recorrer el Pucará (fortaleza) en el cerro Alto del Rey, el Barrio Bajo con sus viviendas de piedra y adobe, y el Museo de Sitio con piezas y maquetas de la cultura quilmeña.",
+        "description": "Ubicadas en los Valles Calchaquíes, son uno de los sitios arqueológicos más importantes del país. Fueron la capital de un antiguo pueblo calchaquí que floreció entre los siglos IX y XVII. Se pueden recorrer el Pucará (fortaleza), el Barrio Bajo con viviendas de piedra y adobe, y el Museo de Sitio con piezas y maquetas de la cultura quilmeña.",
         "imageSites": "tucumanS3"
       },
       {
         "name": "Parque Nacional Los Alisos",
-        "description": "A 100 km de San Miguel de Tucumán, es el único parque nacional con ruinas incaicas y un camino inca en su interior.  Protege ecosistemas de Yungas y Altos Andes, con senderos, cascadas, flora y fauna autóctonas, y miradores con vistas espectaculares. ",
+        "description": "A unos 100 km de San Miguel de Tucumán, es el único parque nacional del país que alberga ruinas incaicas y un antiguo camino inca en su interior. Protege ecosistemas de Yungas y Altos Andes, con senderos, cascadas, flora y fauna autóctonas y miradores con vistas panorámicas.",
         "imageSites": "tucumanS4"
       },
       {
         "name": "Amaicha del Valle",
-        "description": " Localidad en los Valles Calchaquíes, conocida por su cultura ancestral y el Carnaval Amaicheño en febrero.  Destacan el Museo Pachamama, el Pueblo Histórico con casas de adobe, el Río Amaicha con pozas naturales y senderos con pinturas rupestres en los cerros Colalao y El Remate.",
+        "description": "Localidad de los Valles Calchaquíes, reconocida por su fuerte identidad cultural y el tradicional Carnaval Amaicheño en febrero. Destacan el Museo Pachamama, el Pueblo Histórico con casas de adobe, el río Amaicha con pozas naturales y senderos con pinturas rupestres en los cerros Colalao y El Remate.",
         "imageSites": "tucumanS5"
       }
     ]
