@@ -67,7 +67,7 @@ fun FavoriteScreen(onNavigate: (Routes) -> Unit) {
   Column(
     modifier = Modifier
       .fillMaxSize()
-      .background(Color(0xFFF8FAFC))
+      .background(Color(0xFFEEE6D7))
   ) {
     // Header
     Text(
@@ -112,7 +112,7 @@ fun FavoriteScreen(onNavigate: (Routes) -> Unit) {
       else -> {
         LazyColumn(
           modifier = Modifier.fillMaxSize(),
-          contentPadding = PaddingValues(vertical = 8.dp)
+          contentPadding = PaddingValues( 8.dp)
         ) {
           items(favoriteProvinces) { province ->
             CustomCard(
