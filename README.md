@@ -38,6 +38,9 @@ Esta aplicación móvil está diseñada para ayudar a viajeros y turistas a desc
 
 <p float="left">
   <img src="https://github.com/SantiagoGrinblat/ConoceArgentina/blob/0fdf9610e680e3908fadbbab27f6a37f0fc3b983/image1.png" width="200" />
+    <img src="https://github.com/SantiagoGrinblat/ConoceArgentina/blob/0fdf9610e680e3908fadbbab27f6a37f0fc3b983/image1.png" width="200" />
+    <img src="https://github.com/SantiagoGrinblat/ConoceArgentina/blob/0fdf9610e680e3908fadbbab27f6a37f0fc3b983/image1.png" width="200" />
+    <img src="https://github.com/SantiagoGrinblat/ConoceArgentina/blob/0fdf9610e680e3908fadbbab27f6a37f0fc3b983/image1.png" width="200" />
 </p>
 
 ## 🧰 Tecnologías usadas
